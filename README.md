@@ -30,7 +30,7 @@ First, you will need to start the PostgreSQL database. Follow these steps:
 
 
 4. Start the react web application:
-    '''sh
+    ```sh
     cd "nfl-rookies-app"
     npm start
     ```
