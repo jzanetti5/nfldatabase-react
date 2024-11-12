@@ -1,0 +1,88 @@
+CREATE TABLE player (
+	p_playerID int PRIMARY KEY,
+	p_draftID int FOREIGN KEY REFERENCES drafted(d_draftID),
+	p_collegeID int FOREIGN KEY REFERENCES college(c_collegeID),
+	p_gameID int FOREIGN KEY REFERENCES game(g_gameID), 
+	p_positionID int FOREIGN KEY REFERENCES position(pt_positionID),
+	p_weight float,
+	p_height int,
+	p_name varchar(225),
+	p_NFLexperience int,
+	p_rookieStatus int,
+	p_projectedStats float,
+	p_actualStats float,
+	p_age int
+);
+
+CREATE TABLE college (
+	c_collegeID int PRIMARY KEY,
+	c_collegeName varchar(225),
+	c_location varchar(225),
+	c_conference int
+);
+
+CREATE TABLE stats (
+	s_statID int PRIMARY KEY,
+	s_statCatID int KEY,
+	s_value int
+);
+
+CREATE TABLE statCategory (
+	sc_statCatID int PRIMARY KEY,
+	sc_categoryName varchar(255),
+	sc_description varchar(255)
+);
+
+CREATE TABLE drafted (
+	d_draftID int PRIMARY KEY,
+	d_pickNumber int,
+	d_round int,
+	d_draftYear Year
+);
+
+CREATE TABLE position (
+	pt_positionID int PRIMARY KEY,
+	pt_positionName varchar(225),
+	pt_abbreviation varchar(225),
+	pt_description varchar(5)
+);
+
+CREATE TABLE team (
+	t_teamID int PRIMARY KEY,
+	t_gameID int,
+	t_stadium int,
+	t_yearFounded Year,
+	t_conference Bool, 
+	
+);
+
+CREATE TABLE game (
+	g_gameID int PRIMARY KEY,
+	g_location varchar(225),
+	g_homeTeam Bool, 
+	g_date Date,
+	g_finalScore int,
+	g_awayTeam varchar(225)
+);
+
+CREATE TABLE season (
+	sn_seasonID int PRIMARY KEY,
+	sn_championTeamID int,
+	sn_playoffsStart Date, 
+	sn_regSeasonStart Date,
+	sn_year Year
+);
+
+CREATE TABLE state (
+	st_stateID int PRIMARY KEY,
+	st_stateName char(225),
+	st_population bigint,
+	st_abbreviation varchar(2)
+);
+
+CREATE TABLE stadium (
+	std_stadiumID int PRIMARY KEY
+	std_stadiumName char(225),
+	std_location char(225),
+	std_capacity int
+);

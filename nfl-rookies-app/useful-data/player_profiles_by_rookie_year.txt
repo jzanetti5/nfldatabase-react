@@ -1,0 +1,7288 @@
+PlayerID: 24927
+College: USC
+FantasyPosition: QB
+Weight: 215
+Height: 6'1"
+Name: Caleb Williams
+Age: 22
+----------------------------------------
+PlayerID: 23235
+College: LSU
+FantasyPosition: QB
+Weight: 210
+Height: 6'4"
+Name: Jayden Daniels
+Age: 23
+----------------------------------------
+PlayerID: 24958
+College: North Carolina
+FantasyPosition: QB
+Weight: 225
+Height: 6'4"
+Name: Drake Maye
+Age: 22
+----------------------------------------
+PlayerID: 24974
+College: Ohio State
+FantasyPosition: WR
+Weight: 205
+Height: 6'4"
+Name: Marvin Harrison Jr.
+Age: 22
+----------------------------------------
+PlayerID: 24936
+College: Notre Dame
+FantasyPosition: OL
+Weight: 322
+Height: 6'8"
+Name: Joe Alt
+Age: 21
+----------------------------------------
+PlayerID: 24953
+College: LSU
+FantasyPosition: WR
+Weight: 200
+Height: 6'0"
+Name: Malik Nabers
+Age: 21
+----------------------------------------
+PlayerID: 24962
+College: Alabama
+FantasyPosition: OL
+Weight: 342
+Height: 6'6"
+Name: JC Latham
+Age: 21
+----------------------------------------
+PlayerID: 23242
+College: Washington
+FantasyPosition: QB
+Weight: 220
+Height: 6'2"
+Name: Michael Penix Jr.
+Age: 24
+----------------------------------------
+PlayerID: 24977
+College: Washington
+FantasyPosition: WR
+Weight: 215
+Height: 6'3"
+Name: Rome Odunze
+Age: 22
+----------------------------------------
+PlayerID: 24956
+College: Michigan
+FantasyPosition: QB
+Weight: 219
+Height: 6'3"
+Name: J.J. McCarthy
+Age: 21
+----------------------------------------
+PlayerID: 25009
+College: Penn State
+FantasyPosition: OL
+Weight: 312
+Height: 6'6"
+Name: Olu Fashanu
+Age: 21
+----------------------------------------
+PlayerID: 25069
+College: Oregon
+FantasyPosition: QB
+Weight: 217
+Height: 6'2"
+Name: Bo Nix
+Age: 24
+----------------------------------------
+PlayerID: 24943
+College: Georgia
+FantasyPosition: TE
+Weight: 230
+Height: 6'4"
+Name: Brock Bowers
+Age: 21
+----------------------------------------
+PlayerID: 25011
+College: Oregon State
+FantasyPosition: OL
+Weight: 324
+Height: 6'6"
+Name: Taliese Fuaga
+Age: 22
+----------------------------------------
+PlayerID: 24993
+College: UCLA
+FantasyPosition: DL
+Weight: 265
+Height: 6'5"
+Name: Laiatu Latu
+Age: 23
+----------------------------------------
+PlayerID: 25022
+College: Texas
+FantasyPosition: DL
+Weight: 306
+Height: 6'0"
+Name: Byron Murphy II
+Age: 22
+----------------------------------------
+PlayerID: 24931
+College: Alabama
+FantasyPosition: LB
+Weight: 247
+Height: 6'3"
+Name: Dallas Turner
+Age: 21
+----------------------------------------
+PlayerID: 24955
+College: Georgia
+FantasyPosition: OL
+Weight: 350
+Height: 6'8"
+Name: Amarius Mims
+Age: 22
+----------------------------------------
+PlayerID: 24139
+College: Florida State
+FantasyPosition: LB
+Weight: 260
+Height: 6'4"
+Name: Jared Verse
+Age: 24
+----------------------------------------
+PlayerID: 25006
+College: Washington
+FantasyPosition: OL
+Weight: 317
+Height: 6'4"
+Name: Troy Fautanu
+Age: 24
+----------------------------------------
+PlayerID: 24949
+College: Penn State
+FantasyPosition: LB
+Weight: 254
+Height: 6'3"
+Name: Chop Robinson
+Age: 21
+----------------------------------------
+PlayerID: 25030
+College: Toledo
+FantasyPosition: DB
+Weight: 193
+Height: 6'0"
+Name: Quinyon Mitchell
+Age: 23
+----------------------------------------
+PlayerID: 24933
+College: LSU
+FantasyPosition: WR
+Weight: 209
+Height: 6'2"
+Name: Brian Thomas Jr.
+Age: 22
+----------------------------------------
+PlayerID: 24940
+College: Alabama
+FantasyPosition: DB
+Weight: 198
+Height: 6'0"
+Name: Terrion Arnold
+Age: 21
+----------------------------------------
+PlayerID: 25018
+College: Arizona
+FantasyPosition: OL
+Weight: 311
+Height: 6'5"
+Name: Jordan Morgan
+Age: 23
+----------------------------------------
+PlayerID: 25038
+College: Duke
+FantasyPosition: OL
+Weight: 314
+Height: 6'5"
+Name: Graham Barton
+Age: 22
+----------------------------------------
+PlayerID: 25299
+College: Missouri
+FantasyPosition: DL
+Weight: 286
+Height: 6'5"
+Name: Darius Robinson
+Age: 23
+----------------------------------------
+PlayerID: 24924
+College: Texas
+FantasyPosition: WR
+Weight: 165
+Height: 5'11"
+Name: Xavier Worthy
+Age: 21
+----------------------------------------
+PlayerID: 25004
+College: Oklahoma
+FantasyPosition: OL
+Weight: 322
+Height: 6'7"
+Name: Tyler Guyton
+Age: 22
+----------------------------------------
+PlayerID: 24928
+College: Clemson
+FantasyPosition: DB
+Weight: 182
+Height: 6'1"
+Name: Nate Wiggins
+Age: 21
+----------------------------------------
+PlayerID: 24982
+College: Florida
+FantasyPosition: WR
+Weight: 192
+Height: 6'3"
+Name: Ricky Pearsall
+Age: 24
+----------------------------------------
+PlayerID: 25003
+College: South Carolina
+FantasyPosition: WR
+Weight: 227
+Height: 6'3"
+Name: Xavier Legette
+Age: 23
+----------------------------------------
+PlayerID: 24964
+College: Florida State
+FantasyPosition: WR
+Weight: 215
+Height: 6'4"
+Name: Keon Coleman
+Age: 21
+----------------------------------------
+PlayerID: 25097
+College: Georgia
+FantasyPosition: WR
+Weight: 185
+Height: 6'0"
+Name: Ladd McConkey
+Age: 22
+----------------------------------------
+PlayerID: 25280
+College: Clemson
+FantasyPosition: DL
+Weight: 295
+Height: 6'4"
+Name: Ruke Orhorhoro
+Age: 23
+----------------------------------------
+PlayerID: 25041
+College: Illinois
+FantasyPosition: DL
+Weight: 295
+Height: 6'2"
+Name: Jer'Zhan Newton
+Age: 22
+----------------------------------------
+PlayerID: 24952
+College: Washington
+FantasyPosition: WR
+Weight: 203
+Height: 6'1"
+Name: Ja'Lynn Polk
+Age: 23
+----------------------------------------
+PlayerID: 25031
+College: Texas
+FantasyPosition: DL
+Weight: 366
+Height: 6'4"
+Name: T'Vondre Sweat
+Age: 23
+----------------------------------------
+PlayerID: 25218
+College: Florida State
+FantasyPosition: DL
+Weight: 291
+Height: 6'4"
+Name: Braden Fiske
+Age: 24
+----------------------------------------
+PlayerID: 24968
+College: Iowa
+FantasyPosition: DB
+Weight: 198
+Height: 6'0"
+Name: Cooper DeJean
+Age: 21
+----------------------------------------
+PlayerID: 25007
+College: Alabama
+FantasyPosition: DB
+Weight: 199
+Height: 5'11"
+Name: Kool-Aid McKinstry
+Age: 22
+----------------------------------------
+PlayerID: 24963
+College: Georgia
+FantasyPosition: DB
+Weight: 180
+Height: 6'0"
+Name: Kamari Lassiter
+Age: 21
+----------------------------------------
+PlayerID: 25165
+College: Rutgers
+FantasyPosition: DB
+Weight: 193
+Height: 5'11"
+Name: Max Melton
+Age: 22
+----------------------------------------
+PlayerID: 24951
+College: Oregon
+FantasyPosition: OL
+Weight: 328
+Height: 6'3"
+Name: Jackson Powers-Johnson
+Age: 21
+----------------------------------------
+PlayerID: 25021
+College: Texas A&M
+FantasyPosition: LB
+Weight: 229
+Height: 6'2"
+Name: Edgerrin Cooper
+Age: 22
+----------------------------------------
+PlayerID: 24944
+College: Texas
+FantasyPosition: RB
+Weight: 207
+Height: 6'0"
+Name: Jonathon Brooks
+Age: 21
+----------------------------------------
+PlayerID: 25026
+College: Minnesota
+FantasyPosition: DB
+Weight: 210
+Height: 6'2"
+Name: Tyler Nubin
+Age: 23
+----------------------------------------
+PlayerID: 24945
+College: LSU
+FantasyPosition: DL
+Weight: 306
+Height: 6'5"
+Name: Maason Smith
+Age: 22
+----------------------------------------
+PlayerID: 25012
+College: Michigan
+FantasyPosition: DL
+Weight: 310
+Height: 6'3"
+Name: Kris Jenkins Jr.
+Age: 23
+----------------------------------------
+PlayerID: 25147
+College: Michigan
+FantasyPosition: DB
+Weight: 182
+Height: 5'10"
+Name: Mike Sainristil
+Age: 24
+----------------------------------------
+PlayerID: 24996
+College: West Virginia
+FantasyPosition: OL
+Weight: 310
+Height: 6'3"
+Name: Zach Frazier
+Age: 23
+----------------------------------------
+PlayerID: 24954
+College: Texas
+FantasyPosition: WR
+Weight: 205
+Height: 6'2"
+Name: Adonai Mitchell
+Age: 22
+----------------------------------------
+PlayerID: 24985
+College: Kansas State
+FantasyPosition: TE
+Weight: 247
+Height: 6'4"
+Name: Ben Sinnott
+Age: 22
+----------------------------------------
+PlayerID: 24975
+College: Ohio State
+FantasyPosition: DL
+Weight: 300
+Height: 6'3"
+Name: Mike Hall Jr.
+Age: 21
+----------------------------------------
+PlayerID: 24995
+College: Houston
+FantasyPosition: OL
+Weight: 332
+Height: 6'7"
+Name: Patrick Paul
+Age: 23
+----------------------------------------
+PlayerID: 25179
+College: Western Michigan
+FantasyPosition: DL
+Weight: 268
+Height: 6'3"
+Name: Marshawn Kneeland
+Age: 23
+----------------------------------------
+PlayerID: 24988
+College: Alabama
+FantasyPosition: LB
+Weight: 255
+Height: 6'3"
+Name: Chris Braswell
+Age: 23
+----------------------------------------
+PlayerID: 24959
+College: Georgia
+FantasyPosition: DB
+Weight: 198
+Height: 5'10"
+Name: Javon Bullard
+Age: 22
+----------------------------------------
+PlayerID: 24972
+College: Notre Dame
+FantasyPosition: OL
+Weight: 312
+Height: 6'6"
+Name: Blake Fisher
+Age: 21
+----------------------------------------
+PlayerID: 24941
+College: Utah
+FantasyPosition: DB
+Weight: 207
+Height: 6'2"
+Name: Cole Bishop
+Age: 22
+----------------------------------------
+PlayerID: 24950
+College: Missouri
+FantasyPosition: DB
+Weight: 191
+Height: 5'11"
+Name: Ennis Rakestraw Jr.
+Age: 22
+----------------------------------------
+PlayerID: 24948
+College: Washington
+FantasyPosition: OL
+Weight: 316
+Height: 6'5"
+Name: Roger Rosengarten
+Age: 22
+----------------------------------------
+PlayerID: 24937
+College: Brigham Young
+FantasyPosition: OL
+Weight: 326
+Height: 6'4"
+Name: Kingsley Suamataia
+Age: 21
+----------------------------------------
+PlayerID: 25192
+College: Florida State
+FantasyPosition: DB
+Weight: 186
+Height: 6'0"
+Name: Renardo Green
+Age: 24
+----------------------------------------
+PlayerID: 24979
+College: Western Kentucky
+FantasyPosition: WR
+Weight: 215
+Height: 5'11"
+Name: Malachi Corley
+Age: 22
+----------------------------------------
+PlayerID: 24292
+College: Florida State
+FantasyPosition: RB
+Weight: 223
+Height: 6'1"
+Name: Trey Benson
+Age: 22
+----------------------------------------
+PlayerID: 25212
+College: TCU
+FantasyPosition: OL
+Weight: 320
+Height: 6'6"
+Name: Brandon Coleman
+Age: 24
+----------------------------------------
+PlayerID: 25242
+College: Penn State
+FantasyPosition: OL
+Weight: 314
+Height: 6'5"
+Name: Caedan Wallace
+Age: 24
+----------------------------------------
+PlayerID: 24966
+College: Michigan
+FantasyPosition: LB
+Weight: 247
+Height: 6'3"
+Name: Junior Colson
+Age: 21
+----------------------------------------
+PlayerID: 25157
+College: Kentucky
+FantasyPosition: DB
+Weight: 180
+Height: 5'11"
+Name: Dru Phillips
+Age: 22
+----------------------------------------
+PlayerID: 25115
+College: Illinois
+FantasyPosition: OL
+Weight: 316
+Height: 6'4"
+Name: Isaiah Adams
+Age: 24
+----------------------------------------
+PlayerID: 24929
+College: Kentucky
+FantasyPosition: LB
+Weight: 244
+Height: 6'1"
+Name: Trevin Wallace
+Age: 21
+----------------------------------------
+PlayerID: 24998
+College: Kansas State
+FantasyPosition: OL
+Weight: 335
+Height: 6'4"
+Name: Cooper Beebe
+Age: 23
+----------------------------------------
+PlayerID: 25033
+College: Washington
+FantasyPosition: LB
+Weight: 245
+Height: 6'3"
+Name: Bralen Trice
+Age: 23
+----------------------------------------
+PlayerID: 24938
+College: Yale
+FantasyPosition: OL
+Weight: 326
+Height: 6'5"
+Name: Kiran Amegadjie
+Age: 22
+----------------------------------------
+PlayerID: 24970
+College: Utah
+FantasyPosition: LB
+Weight: 246
+Height: 6'2"
+Name: Jonah Elliss
+Age: 21
+----------------------------------------
+PlayerID: 25257
+College: Maryland
+FantasyPosition: OL
+Weight: 323
+Height: 6'4"
+Name: DJ Glaze
+Age: 22
+----------------------------------------
+PlayerID: 24961
+College: USC
+FantasyPosition: DB
+Weight: 190
+Height: 6'3"
+Name: Calen Bullock
+Age: 21
+----------------------------------------
+PlayerID: 25259
+College: Pittsburgh
+FantasyPosition: OL
+Weight: 317
+Height: 6'6"
+Name: Matt Goncalves
+Age: 23
+----------------------------------------
+PlayerID: 23158
+College: Alabama
+FantasyPosition: WR
+Weight: 204
+Height: 6'0"
+Name: Jermaine Burton
+Age: 23
+----------------------------------------
+PlayerID: 25183
+College: Connecticut
+FantasyPosition: OL
+Weight: 318
+Height: 6'2"
+Name: Christian Haynes
+Age: 24
+----------------------------------------
+PlayerID: 25141
+College: Illinois
+FantasyPosition: TE
+Weight: 273
+Height: 6'4"
+Name: Tip Reiman
+Age: 23
+----------------------------------------
+PlayerID: 24116
+College: Michigan
+FantasyPosition: RB
+Weight: 210
+Height: 5'8"
+Name: Blake Corum
+Age: 23
+----------------------------------------
+PlayerID: 25039
+College: Michigan
+FantasyPosition: WR
+Weight: 186
+Height: 5'10"
+Name: Roman Wilson
+Age: 23
+----------------------------------------
+PlayerID: 25241
+College: Michigan
+FantasyPosition: OL
+Weight: 310
+Height: 6'6"
+Name: Zak Zinter
+Age: 23
+----------------------------------------
+PlayerID: 25019
+College: Kansas
+FantasyPosition: OL
+Weight: 313
+Height: 6'5"
+Name: Dominick Puni
+Age: 24
+----------------------------------------
+PlayerID: 25245
+College: Notre Dame
+FantasyPosition: LB
+Weight: 239
+Height: 6'2"
+Name: Marist Liufau
+Age: 23
+----------------------------------------
+PlayerID: 23211
+College: USC
+FantasyPosition: RB
+Weight: 220
+Height: 5'9"
+Name: MarShawn Lloyd
+Age: 23
+----------------------------------------
+PlayerID: 25143
+College: Georgia
+FantasyPosition: DB
+Weight: 202
+Height: 5'10"
+Name: Tykee Smith
+Age: 23
+----------------------------------------
+PlayerID: 25173
+College: Boston College
+FantasyPosition: DB
+Weight: 184
+Height: 6'2"
+Name: Elijah Jones
+Age: 24
+----------------------------------------
+PlayerID: 25249
+College: Missouri
+FantasyPosition: LB
+Weight: 228
+Height: 6'2"
+Name: Ty'Ron Hopper
+Age: 23
+----------------------------------------
+PlayerID: 25098
+College: Washington
+FantasyPosition: WR
+Weight: 192
+Height: 6'1"
+Name: Jalen McMillan
+Age: 22
+----------------------------------------
+PlayerID: 25162
+College: Penn State
+FantasyPosition: LB
+Weight: 253
+Height: 6'4"
+Name: Adisa Isaac
+Age: 23
+----------------------------------------
+PlayerID: 25160
+College: Houston Christian
+FantasyPosition: LB
+Weight: 252
+Height: 6'3"
+Name: Jalyx Hunt
+Age: 23
+----------------------------------------
+PlayerID: 25238
+College: Duke
+FantasyPosition: DL
+Weight: 305
+Height: 6'3"
+Name: DeWayne Carter
+Age: 23
+----------------------------------------
+PlayerID: 25172
+College: Florida State
+FantasyPosition: DB
+Weight: 190
+Height: 5'11"
+Name: Jarrian Jones
+Age: 23
+----------------------------------------
+PlayerID: 25167
+College: Texas A&M
+FantasyPosition: DL
+Weight: 330
+Height: 6'2"
+Name: McKinnley Jackson
+Age: 22
+----------------------------------------
+PlayerID: 25035
+College: North Carolina State
+FantasyPosition: LB
+Weight: 242
+Height: 6'4"
+Name: Payton Wilson
+Age: 24
+----------------------------------------
+PlayerID: 25027
+College: Miami (FL)
+FantasyPosition: DB
+Weight: 207
+Height: 5'11"
+Name: Kamren Kinchens
+Age: 22
+----------------------------------------
+PlayerID: 24987
+College: Rice
+FantasyPosition: WR
+Weight: 198
+Height: 6'2"
+Name: Luke McCaffrey
+Age: 23
+----------------------------------------
+PlayerID: 24947
+College: Texas
+FantasyPosition: TE
+Weight: 252
+Height: 6'4"
+Name: Ja'Tavion Sanders
+Age: 21
+----------------------------------------
+PlayerID: 24973
+College: Oregon
+FantasyPosition: WR
+Weight: 180
+Height: 6'3"
+Name: Troy Franklin
+Age: 21
+----------------------------------------
+PlayerID: 25290
+College: Texas A&M
+FantasyPosition: OL
+Weight: 311
+Height: 6'3"
+Name: Layden Robinson
+Age: 23
+----------------------------------------
+PlayerID: 25138
+College: Texas Tech
+FantasyPosition: DB
+Weight: 189
+Height: 5'10"
+Name: Dadrion Taylor-Demerson
+Age: 23
+----------------------------------------
+PlayerID: 25211
+College: Alabama
+FantasyPosition: DL
+Weight: 292
+Height: 6'5"
+Name: Justin Eboigbe
+Age: 23
+----------------------------------------
+PlayerID: 25250
+College: North Carolina
+FantasyPosition: LB
+Weight: 234
+Height: 6'2"
+Name: Cedric Gray
+Age: 22
+----------------------------------------
+PlayerID: 23142
+College: Penn State
+FantasyPosition: TE
+Weight: 264
+Height: 6'6"
+Name: Theo Johnson
+Age: 23
+----------------------------------------
+PlayerID: 25013
+College: Oregon
+FantasyPosition: DB
+Weight: 194
+Height: 6'4"
+Name: Khyree Jackson
+Age: 25
+----------------------------------------
+PlayerID: 24997
+College: Oregon
+FantasyPosition: DL
+Weight: 295
+Height: 6'3"
+Name: Brandon Dorlus
+Age: 23
+----------------------------------------
+PlayerID: 25040
+College: Central Florida
+FantasyPosition: WR
+Weight: 202
+Height: 6'1"
+Name: Javon Baker
+Age: 22
+----------------------------------------
+PlayerID: 25125
+College: Oregon
+FantasyPosition: DB
+Weight: 200
+Height: 5'11"
+Name: Evan Williams
+Age: 23
+----------------------------------------
+PlayerID: 25151
+College: Mississippi State
+FantasyPosition: DB
+Weight: 188
+Height: 6'2"
+Name: Decamerion Richardson
+Age: 23
+----------------------------------------
+PlayerID: 24978
+College: North Carolina
+FantasyPosition: WR
+Weight: 198
+Height: 6'1"
+Name: Devontez Walker
+Age: 23
+----------------------------------------
+PlayerID: 25234
+College: Missouri
+FantasyPosition: OL
+Weight: 313
+Height: 6'5"
+Name: Javon Foster
+Age: 24
+----------------------------------------
+PlayerID: 25208
+College: Iowa
+FantasyPosition: TE
+Weight: 255
+Height: 6'5"
+Name: Erick All Jr.
+Age: 24
+----------------------------------------
+PlayerID: 25174
+College: LSU
+FantasyPosition: DL
+Weight: 316
+Height: 6'2"
+Name: Jordan Jefferson
+Age: 23
+----------------------------------------
+PlayerID: 25152
+College: Wisconsin
+FantasyPosition: OL
+Weight: 303
+Height: 6'4"
+Name: Tanor Bortolini
+Age: 22
+----------------------------------------
+PlayerID: 25246
+College: Texas-El Paso
+FantasyPosition: LB
+Weight: 233
+Height: 6'0"
+Name: Tyrice Knight
+Age: 24
+----------------------------------------
+PlayerID: 25276
+College: South Dakota State
+FantasyPosition: OL
+Weight: 315
+Height: 6'5"
+Name: Mason McCormick
+Age: 24
+----------------------------------------
+PlayerID: 24923
+College: Tennessee
+FantasyPosition: RB
+Weight: 210
+Height: 5'10"
+Name: Jaylen Wright
+Age: 21
+----------------------------------------
+PlayerID: 25106
+College: Michigan
+FantasyPosition: TE
+Weight: 251
+Height: 6'6"
+Name: AJ Barner
+Age: 22
+----------------------------------------
+PlayerID: 25110
+College: Iowa
+FantasyPosition: P
+Weight: 223
+Height: 6'4"
+Name: Tory Taylor
+Age: 27
+----------------------------------------
+PlayerID: 24986
+College: Ohio State
+FantasyPosition: TE
+Weight: 251
+Height: 6'4"
+Name: Cade Stover
+Age: 24
+----------------------------------------
+PlayerID: 25163
+College: Wake Forest
+FantasyPosition: DB
+Weight: 206
+Height: 5'10"
+Name: Malik Mustapha
+Age: 22
+----------------------------------------
+PlayerID: 24967
+College: Oregon
+FantasyPosition: RB
+Weight: 195
+Height: 5'10"
+Name: Bucky Irving
+Age: 22
+----------------------------------------
+PlayerID: 25336
+College: British Columbia (Canada)
+FantasyPosition: OL
+Weight: 354
+Height: 6'7"
+Name: Giovanni Manu
+Age: 23
+----------------------------------------
+PlayerID: 25102
+College: Clemson
+FantasyPosition: RB
+Weight: 209
+Height: 5'11"
+Name: Will Shipley
+Age: 22
+----------------------------------------
+PlayerID: 24980
+College: Kentucky
+FantasyPosition: RB
+Weight: 220
+Height: 5'8"
+Name: Ray Davis
+Age: 24
+----------------------------------------
+PlayerID: 25063
+College: Louisville
+FantasyPosition: RB
+Weight: 221
+Height: 6'0"
+Name: Isaac Guerendo
+Age: 24
+----------------------------------------
+PlayerID: 25008
+College: Iowa State
+FantasyPosition: DB
+Weight: 199
+Height: 6'1"
+Name: T.J. Tampa
+Age: 22
+----------------------------------------
+PlayerID: 25112
+College: TCU
+FantasyPosition: TE
+Weight: 249
+Height: 6'6"
+Name: Jared Wiley
+Age: 24
+----------------------------------------
+PlayerID: 24930
+College: Utah
+FantasyPosition: RB
+Weight: 213
+Height: 5'11"
+Name: Sione Vaki
+Age: 23
+----------------------------------------
+PlayerID: 24969
+College: Washington State
+FantasyPosition: DB
+Weight: 215
+Height: 6'1"
+Name: Jaden Hicks
+Age: 22
+----------------------------------------
+PlayerID: 24934
+College: Wisconsin
+FantasyPosition: RB
+Weight: 235
+Height: 6'1"
+Name: Braelon Allen
+Age: 20
+----------------------------------------
+PlayerID: 24981
+College: Arizona
+FantasyPosition: WR
+Weight: 171
+Height: 5'9"
+Name: Jacob Cowing
+Age: 23
+----------------------------------------
+PlayerID: 25154
+College: Auburn
+FantasyPosition: DB
+Weight: 188
+Height: 6'0"
+Name: Nehemiah Pritchett
+Age: 23
+----------------------------------------
+PlayerID: 25139
+College: Maryland
+FantasyPosition: DB
+Weight: 196
+Height: 6'1"
+Name: Tarheeb Still
+Age: 22
+----------------------------------------
+PlayerID: 25272
+College: Clemson
+FantasyPosition: LB
+Weight: 244
+Height: 6'2"
+Name: Xavier Thomas
+Age: 24
+----------------------------------------
+PlayerID: 25244
+College: Temple
+FantasyPosition: LB
+Weight: 226
+Height: 6'3"
+Name: Jordan Magee
+Age: 23
+----------------------------------------
+PlayerID: 25298
+College: Notre Dame
+FantasyPosition: DB
+Weight: 207
+Height: 6'2"
+Name: Cam Hart
+Age: 23
+----------------------------------------
+PlayerID: 24098
+College: Georgia
+FantasyPosition: OL
+Weight: 310
+Height: 6'4"
+Name: Sedrick Van Pran-Granger
+Age: 23
+----------------------------------------
+PlayerID: 25126
+College: Oregon State
+FantasyPosition: WR
+Weight: 174
+Height: 5'8"
+Name: Anthony Gould
+Age: 23
+----------------------------------------
+PlayerID: 25264
+College: Notre Dame
+FantasyPosition: LB
+Weight: 230
+Height: 6'1"
+Name: JD Bertrand
+Age: 24
+----------------------------------------
+PlayerID: 24942
+College: Kansas
+FantasyPosition: DL
+Weight: 245
+Height: 6'6"
+Name: Austin Booker
+Age: 21
+----------------------------------------
+PlayerID: 25229
+College: Missouri
+FantasyPosition: DB
+Weight: 178
+Height: 5'11"
+Name: Kris Abrams-Draine
+Age: 23
+----------------------------------------
+PlayerID: 25217
+College: Louisville
+FantasyPosition: DB
+Weight: 194
+Height: 5'10"
+Name: Jarvis Brownlee Jr.
+Age: 23
+----------------------------------------
+PlayerID: 24971
+College: Notre Dame
+FantasyPosition: RB
+Weight: 227
+Height: 5'11"
+Name: Audric Estime
+Age: 21
+----------------------------------------
+PlayerID: 25253
+College: Ohio State
+FantasyPosition: LB
+Weight: 233
+Height: 6'2"
+Name: Tommy Eichenberg
+Age: 23
+----------------------------------------
+PlayerID: 25023
+College: TCU
+FantasyPosition: DB
+Weight: 190
+Height: 5'11"
+Name: Josh Newton
+Age: 24
+----------------------------------------
+PlayerID: 23186
+College: South Carolina
+FantasyPosition: QB
+Weight: 211
+Height: 6'0"
+Name: Spencer Rattler
+Age: 24
+----------------------------------------
+PlayerID: 25214
+College: Missouri
+FantasyPosition: LB
+Weight: 227
+Height: 6'3"
+Name: Jaylon Carlies
+Age: 23
+----------------------------------------
+PlayerID: 23144
+College: Texas A&M
+FantasyPosition: WR
+Weight: 176
+Height: 5'9"
+Name: Ainias Smith
+Age: 23
+----------------------------------------
+PlayerID: 25156
+College: Mississippi
+FantasyPosition: DB
+Weight: 183
+Height: 6'0"
+Name: De'Antre Prince
+Age: 24
+----------------------------------------
+PlayerID: 25164
+College: Washington State
+FantasyPosition: LB
+Weight: 263
+Height: 6'4"
+Name: Brennan Jackson
+Age: 24
+----------------------------------------
+PlayerID: 24932
+College: Clemson
+FantasyPosition: LB
+Weight: 225
+Height: 6'0"
+Name: Jeremiah Trotter Jr.
+Age: 21
+----------------------------------------
+PlayerID: 24984
+College: Louisville
+FantasyPosition: WR
+Weight: 190
+Height: 6'0"
+Name: Jamari Thrash
+Age: 23
+----------------------------------------
+PlayerID: 25140
+College: Washington State
+FantasyPosition: DB
+Weight: 176
+Height: 5'11"
+Name: Chau Smith-Wade
+Age: 22
+----------------------------------------
+PlayerID: 25178
+College: Colorado State
+FantasyPosition: LB
+Weight: 253
+Height: 6'1"
+Name: Mohamed Kamara
+Age: 24
+----------------------------------------
+PlayerID: 25282
+College: Penn State
+FantasyPosition: OL
+Weight: 317
+Height: 6'3"
+Name: Hunter Nourzad
+Age: 24
+----------------------------------------
+PlayerID: 25235
+College: Washington
+FantasyPosition: LB
+Weight: 239
+Height: 6'1"
+Name: Edefuan Ulofoshio
+Age: 24
+----------------------------------------
+PlayerID: 25187
+College: Washington
+FantasyPosition: DB
+Weight: 220
+Height: 6'3"
+Name: Dominique Hampton
+Age: 24
+----------------------------------------
+PlayerID: 25186
+College: Texas
+FantasyPosition: OL
+Weight: 318
+Height: 6'5"
+Name: Christian Jones
+Age: 24
+----------------------------------------
+PlayerID: 25281
+College: Duke
+FantasyPosition: OL
+Weight: 308
+Height: 6'3"
+Name: Jacob Monk
+Age: 23
+----------------------------------------
+PlayerID: 25145
+College: Auburn
+FantasyPosition: DB
+Weight: 179
+Height: 5'11"
+Name: Jaylin Simpson
+Age: 24
+----------------------------------------
+PlayerID: 25045
+College: Marshall
+FantasyPosition: RB
+Weight: 212
+Height: 5'11"
+Name: Rasheen Ali
+Age: 23
+----------------------------------------
+PlayerID: 25092
+College: Purdue
+FantasyPosition: RB
+Weight: 210
+Height: 5'11"
+Name: Tyrone Tracy Jr.
+Age: 24
+----------------------------------------
+PlayerID: 25120
+College: Texas
+FantasyPosition: RB
+Weight: 191
+Height: 5'8"
+Name: Keilan Robinson
+Age: 24
+----------------------------------------
+PlayerID: 25274
+College: Troy
+FantasyPosition: DL
+Weight: 247
+Height: 6'1"
+Name: Javon Solomon
+Age: 23
+----------------------------------------
+PlayerID: 25161
+College: Oregon State
+FantasyPosition: DB
+Weight: 216
+Height: 6'2"
+Name: Kitan Oladapo
+Age: 24
+----------------------------------------
+PlayerID: 25133
+College: Pittsburgh
+FantasyPosition: WR
+Weight: 215
+Height: 6'2"
+Name: Bub Means
+Age: 23
+----------------------------------------
+PlayerID: 25116
+College: Florida State
+FantasyPosition: QB
+Weight: 200
+Height: 6'1"
+Name: Jordan Travis
+Age: 24
+----------------------------------------
+PlayerID: 25191
+College: Michigan
+FantasyPosition: OL
+Weight: 306
+Height: 6'5"
+Name: Trevor Keegan
+Age: 24
+----------------------------------------
+PlayerID: 25064
+College: South Dakota State
+FantasyPosition: RB
+Weight: 220
+Height: 6'1"
+Name: Isaiah Davis
+Age: 22
+----------------------------------------
+PlayerID: 25213
+College: Wake Forest
+FantasyPosition: DB
+Weight: 195
+Height: 6'0"
+Name: Caelen Carson
+Age: 22
+----------------------------------------
+PlayerID: 25252
+College: Texas
+FantasyPosition: LB
+Weight: 240
+Height: 6'2"
+Name: Jaylan Ford
+Age: 22
+----------------------------------------
+PlayerID: 25334
+College: None
+FantasyPosition: DB
+Weight: 197
+Height: 6'0"
+Name: Qwan'tez Stiggers
+Age: 22
+----------------------------------------
+PlayerID: 25292
+College: Oklahoma
+FantasyPosition: OL
+Weight: 313
+Height: 6'6"
+Name: Walter Rouse
+Age: 23
+----------------------------------------
+PlayerID: 25197
+College: Iowa
+FantasyPosition: DL
+Weight: 286
+Height: 6'5"
+Name: Logan Lee
+Age: 24
+----------------------------------------
+PlayerID: 25266
+College: Utah
+FantasyPosition: OL
+Weight: 319
+Height: 6'4"
+Name: Sataoa Laumea
+Age: 23
+----------------------------------------
+PlayerID: 25203
+College: South Carolina
+FantasyPosition: DB
+Weight: 190
+Height: 6'0"
+Name: Marcellas Dial Jr.
+Age: 23
+----------------------------------------
+PlayerID: 25079
+College: Troy
+FantasyPosition: RB
+Weight: 215
+Height: 5'8"
+Name: Kimani Vidal
+Age: 23
+----------------------------------------
+PlayerID: 25132
+College: Tulane
+FantasyPosition: WR
+Weight: 188
+Height: 5'9"
+Name: Jha'Quan Jackson
+Age: 24
+----------------------------------------
+PlayerID: 25243
+College: UCLA
+FantasyPosition: LB
+Weight: 234
+Height: 6'0"
+Name: Darius Muasau
+Age: 23
+----------------------------------------
+PlayerID: 25103
+College: Virginia
+FantasyPosition: WR
+Weight: 191
+Height: 5'8"
+Name: Malik Washington
+Age: 24
+----------------------------------------
+PlayerID: 24325
+College: Florida State
+FantasyPosition: WR
+Weight: 228
+Height: 6'6"
+Name: Johnny Wilson
+Age: 23
+----------------------------------------
+PlayerID: 23201
+College: Alabama
+FantasyPosition: RB
+Weight: 215
+Height: 5'11"
+Name: Jase McClellan
+Age: 22
+----------------------------------------
+PlayerID: 25304
+College: Illinois
+FantasyPosition: WR
+Weight: 205
+Height: 6'0"
+Name: Casey Washington
+Age: 23
+----------------------------------------
+PlayerID: 25337
+College: Oregon
+FantasyPosition: LB
+Weight: 227
+Height: 6'0"
+Name: Jamal Hill
+Age: 23
+----------------------------------------
+PlayerID: 24925
+College: LSU
+FantasyPosition: DL
+Weight: 288
+Height: 6'0"
+Name: Mekhi Wingo
+Age: 21
+----------------------------------------
+PlayerID: 25279
+College: North Carolina State
+FantasyPosition: OL
+Weight: 298
+Height: 6'3"
+Name: Dylan McMahon
+Age: 23
+----------------------------------------
+PlayerID: 25338
+College: Alabama-Birmingham
+FantasyPosition: WR
+Weight: 210
+Height: 6'2"
+Name: Tejhaun Palmer
+Age: 24
+----------------------------------------
+PlayerID: 25339
+College: Auburn
+FantasyPosition: DB
+Weight: 170
+Height: 6'0"
+Name: D.J. James
+Age: 23
+----------------------------------------
+PlayerID: 25025
+College: Tennessee
+FantasyPosition: QB
+Weight: 246
+Height: 6'5"
+Name: Joe Milton III
+Age: 24
+----------------------------------------
+PlayerID: 25014
+College: Arizona
+FantasyPosition: TE
+Weight: 244
+Height: 6'5"
+Name: Tanner McLachlan
+Age: 25
+----------------------------------------
+PlayerID: 25130
+College: Texas
+FantasyPosition: DB
+Weight: 212
+Height: 6'3"
+Name: Ryan Watts
+Age: 23
+----------------------------------------
+PlayerID: 25224
+College: Clemson
+FantasyPosition: DL
+Weight: 300
+Height: 6'2"
+Name: Tyler Davis
+Age: 24
+----------------------------------------
+PlayerID: 25200
+College: Georgia
+FantasyPosition: DL
+Weight: 314
+Height: 6'6"
+Name: Zion Logue
+Age: 23
+----------------------------------------
+PlayerID: 25166
+College: California
+FantasyPosition: DB
+Weight: 206
+Height: 6'0"
+Name: Patrick McMorris
+Age: 23
+----------------------------------------
+PlayerID: 25335
+College: Northern Iowa
+FantasyPosition: DL
+Weight: 320
+Height: 6'2"
+Name: Khristian Boyd
+Age: 24
+----------------------------------------
+PlayerID: 25231
+College: Mississippi State
+FantasyPosition: DL
+Weight: 309
+Height: 6'4"
+Name: Jaden Crumedy
+Age: 24
+----------------------------------------
+PlayerID: 25340
+College: Marshall
+FantasyPosition: DB
+Weight: 185
+Height: 5'10"
+Name: Micah Abraham
+Age: 23
+----------------------------------------
+PlayerID: 25341
+College: Georgia State
+FantasyPosition: OL
+Weight: 317
+Height: 6'6"
+Name: Travis Glover
+Age: 24
+----------------------------------------
+PlayerID: 25113
+College: Alabama
+FantasyPosition: K
+Weight: 187
+Height: 6'1"
+Name: Will Reichard
+Age: 23
+----------------------------------------
+PlayerID: 25260
+College: Central Florida
+FantasyPosition: OL
+Weight: 309
+Height: 6'5"
+Name: Tylan Grable
+Age: 25
+----------------------------------------
+PlayerID: 24991
+College: Louisville
+FantasyPosition: RB
+Weight: 186
+Height: 5'10"
+Name: Jawhar Jordan
+Age: 25
+----------------------------------------
+PlayerID: 25232
+College: Mississippi State
+FantasyPosition: LB
+Weight: 233
+Height: 6'0"
+Name: Nathaniel Watson
+Age: 24
+----------------------------------------
+PlayerID: 25342
+College: Findlay
+FantasyPosition: OL
+Weight: 294
+Height: 6'5"
+Name: Michael Jerrell
+Age: 25
+----------------------------------------
+PlayerID: 25054
+College: New Hampshire
+FantasyPosition: RB
+Weight: 206
+Height: 5'10"
+Name: Dylan Laube
+Age: 24
+----------------------------------------
+PlayerID: 25121
+College: Stanford
+FantasyPosition: K
+Weight: 207
+Height: 6'2"
+Name: Joshua Karty
+Age: 22
+----------------------------------------
+PlayerID: 25273
+College: Boston College
+FantasyPosition: OL
+Weight: 319
+Height: 6'3"
+Name: Christian Mahogany
+Age: 24
+----------------------------------------
+PlayerID: 25190
+College: Tennessee
+FantasyPosition: DB
+Weight: 192
+Height: 6'1"
+Name: Kamal Hadden
+Age: 23
+----------------------------------------
+PlayerID: 24960
+College: Arkansas
+FantasyPosition: K
+Weight: 172
+Height: 6'1"
+Name: Cam Little
+Age: 21
+----------------------------------------
+PlayerID: 25201
+College: Texas
+FantasyPosition: WR
+Weight: 202
+Height: 6'1"
+Name: Jordan Whittington
+Age: 24
+----------------------------------------
+PlayerID: 25177
+College: Mississippi
+FantasyPosition: DL
+Weight: 264
+Height: 6'3"
+Name: Cedric Johnson
+Age: 22
+----------------------------------------
+PlayerID: 25193
+College: USC
+FantasyPosition: OL
+Weight: 308
+Height: 6'4"
+Name: Jarrett Kingston
+Age: 24
+----------------------------------------
+PlayerID: 25124
+College: Southeast Missouri State
+FantasyPosition: WR
+Weight: 200
+Height: 6'1"
+Name: Ryan Flournoy
+Age: 25
+----------------------------------------
+PlayerID: 25271
+College: Arkansas
+FantasyPosition: OL
+Weight: 312
+Height: 6'5"
+Name: Beaux Limmer
+Age: 23
+----------------------------------------
+PlayerID: 25111
+College: Kentucky
+FantasyPosition: QB
+Weight: 216
+Height: 6'1"
+Name: Devin Leary
+Age: 25
+----------------------------------------
+PlayerID: 25182
+College: Penn State
+FantasyPosition: DB
+Weight: 178
+Height: 5'9"
+Name: Daequan Hardy
+Age: 23
+----------------------------------------
+PlayerID: 25343
+College: Texas-El Paso
+FantasyPosition: OL
+Weight: 319
+Height: 6'4"
+Name: Elijah Klein
+Age: 24
+----------------------------------------
+PlayerID: 25344
+College: None
+FantasyPosition: OL
+Weight: 301
+Height: 6'7"
+Name: Travis Clayton
+Age: 23
+----------------------------------------
+PlayerID: 25169
+College: Notre Dame
+FantasyPosition: DL
+Weight: 260
+Height: 6'5"
+Name: Javontae Jean-Baptiste
+Age: 24
+----------------------------------------
+PlayerID: 25345
+College: Air Force
+FantasyPosition: DB
+Weight: 213
+Height: 6'0"
+Name: Trey Taylor
+Age: 23
+----------------------------------------
+PlayerID: 25225
+College: Mississippi
+FantasyPosition: DB
+Weight: 200
+Height: 6'0"
+Name: Daijahn Anthony
+Age: 24
+----------------------------------------
+PlayerID: 25101
+College: USC
+FantasyPosition: WR
+Weight: 210
+Height: 6'3"
+Name: Brenden Rice
+Age: 22
+----------------------------------------
+PlayerID: 25346
+College: Miami (FL)
+FantasyPosition: DB
+Weight: 182
+Height: 5'10"
+Name: Jaden Davis
+Age: 23
+----------------------------------------
+PlayerID: 25184
+College: South Dakota
+FantasyPosition: DB
+Weight: 195
+Height: 5'11"
+Name: Myles Harden
+Age: 22
+----------------------------------------
+PlayerID: 25293
+College: Michigan State
+FantasyPosition: OL
+Weight: 314
+Height: 6'4"
+Name: Nick Samac
+Age: 23
+----------------------------------------
+PlayerID: 25206
+College: Pittsburgh
+FantasyPosition: DB
+Weight: 186
+Height: 5'11"
+Name: M.J. Devonshire
+Age: 24
+----------------------------------------
+PlayerID: 25347
+College: Wake Forest
+FantasyPosition: OL
+Weight: 311
+Height: 6'5"
+Name: Michael Jurgens
+Age: 24
+----------------------------------------
+PlayerID: 25104
+College: Florida State
+FantasyPosition: TE
+Weight: 241
+Height: 6'2"
+Name: Jaheim Bell
+Age: 23
+----------------------------------------
+PlayerID: 25348
+College: Texas A&M Commerce
+FantasyPosition: DL
+Weight: 290
+Height: 6'2"
+Name: Levi Drake Rodriguez
+Age: 24
+----------------------------------------
+PlayerID: 25289
+College: Louisiana-Lafayette
+FantasyPosition: OL
+Weight: 331
+Height: 6'4"
+Name: Nathan Thomas
+Age: 23
+----------------------------------------
+PlayerID: 25349
+College: Oklahoma
+FantasyPosition: DL
+Weight: 292
+Height: 6'5"
+Name: Jonah Laulu
+Age: 24
+----------------------------------------
+PlayerID: 25198
+College: Utah
+FantasyPosition: WR
+Weight: 210
+Height: 6'5"
+Name: Devaughn Vele
+Age: 26
+----------------------------------------
+PlayerID: 25233
+College: Texas Tech
+FantasyPosition: DL
+Weight: 278
+Height: 6'6"
+Name: Myles Cole
+Age: 24
+----------------------------------------
+PlayerID: 25268
+College: Miami (FL)
+FantasyPosition: OL
+Weight: 310
+Height: 6'4"
+Name: Matt Lee
+Age: 23
+----------------------------------------
+PlayerID: 25239
+College: USC
+FantasyPosition: DL
+Weight: 250
+Height: 6'3"
+Name: Solomon Byrd
+Age: 24
+----------------------------------------
+PlayerID: 25227
+College: Eastern Kentucky
+FantasyPosition: OL
+Weight: 329
+Height: 6'6"
+Name: Josiah Ezirim
+Age: 23
+----------------------------------------
+PlayerID: 25265
+College: Michigan
+FantasyPosition: LB
+Weight: 239
+Height: 6'0"
+Name: Michael Barrett
+Age: 24
+----------------------------------------
+PlayerID: 25199
+College: USC
+FantasyPosition: WR
+Weight: 174
+Height: 5'10"
+Name: Tahj Washington
+Age: 23
+----------------------------------------
+PlayerID: 24926
+College: Miami (FL)
+FantasyPosition: LB
+Weight: 232
+Height: 6'4"
+Name: James Williams
+Age: 21
+----------------------------------------
+PlayerID: 25350
+College: Cincinnati
+FantasyPosition: DL
+Weight: 313
+Height: 6'1"
+Name: Jowon Briggs
+Age: 23
+----------------------------------------
+PlayerID: 25277
+College: Auburn
+FantasyPosition: DL
+Weight: 335
+Height: 6'3"
+Name: Justin Rogers
+Age: 23
+----------------------------------------
+PlayerID: 24983
+College: Tulane
+FantasyPosition: QB
+Weight: 217
+Height: 6'2"
+Name: Michael Pratt
+Age: 23
+----------------------------------------
+PlayerID: 25144
+College: Washington
+FantasyPosition: TE
+Weight: 237
+Height: 6'4"
+Name: Devin Culp
+Age: 24
+----------------------------------------
+PlayerID: 25158
+College: Auburn
+FantasyPosition: DL
+Weight: 295
+Height: 6'3"
+Name: Marcus Harris
+Age: 24
+----------------------------------------
+PlayerID: 25181
+College: Holy Cross
+FantasyPosition: OL
+Weight: 300
+Height: 6'5"
+Name: C.J. Hanson
+Age: 23
+----------------------------------------
+PlayerID: 25185
+College: Michigan
+FantasyPosition: OL
+Weight: 309
+Height: 6'4"
+Name: LaDarius Henderson
+Age: 22
+----------------------------------------
+PlayerID: 25351
+College: Purdue
+FantasyPosition: DB
+Weight: 210
+Height: 5'11"
+Name: Sanoussi Kane
+Age: 23
+----------------------------------------
+PlayerID: 25263
+College: Florida State
+FantasyPosition: LB
+Weight: 299
+Height: 6'0"
+Name: Tatum Bethune
+Age: 23
+----------------------------------------
+PlayerID: 25222
+College: Michigan
+FantasyPosition: LB
+Weight: 247
+Height: 6'4"
+Name: Jaylen Harrell
+Age: 22
+----------------------------------------
+PlayerID: 23146
+College: Michigan
+FantasyPosition: WR
+Weight: 208
+Height: 6'3"
+Name: Cornelius Johnson
+Age: 23
+----------------------------------------
+PlayerID: 24965
+College: Penn State
+FantasyPosition: DB
+Weight: 190
+Height: 5'11"
+Name: Kalen King
+Age: 21
+----------------------------------------
+PlayerID: 25256
+College: South Carolina
+FantasyPosition: OL
+Weight: 310
+Height: 6'5"
+Name: Nick Gargiulo
+Age: 24
+----------------------------------------
+PlayerID: 25170
+College: Alabama
+FantasyPosition: DB
+Weight: 210
+Height: 6'2"
+Name: Jaylen Key
+Age: 24
+----------------------------------------
+PlayerID: 23182
+College: BYU
+FantasyPosition: QB
+Weight: 223
+Height: 6'2"
+Name: Kedon Slovis
+Age: 23
+----------------------------------------
+PlayerID: 23188
+College: USC
+FantasyPosition: RB
+Weight: 200
+Height: 5'10"
+Name: Austin Jones
+Age: 23
+----------------------------------------
+PlayerID: 23196
+College: Boise State
+FantasyPosition: RB
+Weight: 210
+Height: 5'11"
+Name: George Holani
+Age: 24
+----------------------------------------
+PlayerID: 23197
+College: Ohio State
+FantasyPosition: LB
+Weight: 223
+Height: 6'0"
+Name: Steele Chambers
+Age: 24
+----------------------------------------
+PlayerID: 23213
+College: Georgia
+FantasyPosition: RB
+Weight: 230
+Height: 6'1"
+Name: Kendall Milton
+Age: 22
+----------------------------------------
+PlayerID: 23225
+College: Minnesota
+FantasyPosition: WR
+Weight: 215
+Height: 6'1"
+Name: Chris Autman-Bell
+Age: None
+----------------------------------------
+PlayerID: 23269
+College: Oklahoma State
+FantasyPosition: QB
+Weight: 210
+Height: 6'1"
+Name: Spencer Sanders
+Age: 24
+----------------------------------------
+PlayerID: 24081
+College: Washington
+FantasyPosition: DL
+Weight: 250
+Height: 6'4"
+Name: Zion Tupuola-Fetui
+Age: 24
+----------------------------------------
+PlayerID: 24187
+College: West Virginia
+FantasyPosition: WR
+Weight: 215
+Height: 6'4"
+Name: Devin Carter
+Age: 24
+----------------------------------------
+PlayerID: 24922
+College: Garden City CC
+FantasyPosition: WR
+Weight: 210
+Height: 6'3"
+Name: Ajou Ajou
+Age: 22
+----------------------------------------
+PlayerID: 24935
+College: Miami (FL)
+FantasyPosition: DL
+Weight: 305
+Height: 6'3"
+Name: Leonard Taylor III
+Age: 22
+----------------------------------------
+PlayerID: 24939
+College: UCLA
+FantasyPosition: RB
+Weight: 228
+Height: 6'0"
+Name: Carson Steele
+Age: 22
+----------------------------------------
+PlayerID: 24946
+College: Monmouth
+FantasyPosition: RB
+Weight: 195
+Height: 5'9"
+Name: Jaden Shirden
+Age: 22
+----------------------------------------
+PlayerID: 24957
+College: Oklahoma State
+FantasyPosition: WR
+Weight: 193
+Height: 5'10"
+Name: Arland Bruce
+Age: 22
+----------------------------------------
+PlayerID: 24989
+College: Colorado State
+FantasyPosition: WR
+Weight: 190
+Height: 6'2"
+Name: Tory Horton
+Age: None
+----------------------------------------
+PlayerID: 24990
+College: Auburn
+FantasyPosition: RB
+Weight: 210
+Height: 5'10"
+Name: Jarquez Hunter
+Age: 21
+----------------------------------------
+PlayerID: 24992
+College: Notre Dame
+FantasyPosition: QB
+Weight: 212
+Height: 6'4"
+Name: Riley Leonard
+Age: 22
+----------------------------------------
+PlayerID: 24994
+College: Georgia
+FantasyPosition: QB
+Weight: 220
+Height: 6'4"
+Name: Carson Beck
+Age: 21
+----------------------------------------
+PlayerID: 24999
+College: South Alabama
+FantasyPosition: RB
+Weight: 210
+Height: 5'7"
+Name: La'Damian Webb
+Age: 24
+----------------------------------------
+PlayerID: 25000
+College: Arkansas
+FantasyPosition: DL
+Weight: 281
+Height: 6'7"
+Name: Landon Jackson
+Age: 21
+----------------------------------------
+PlayerID: 25001
+College: Pittsburgh
+FantasyPosition: WR
+Weight: 185
+Height: 6'1"
+Name: Konata Mumpfield
+Age: 22
+----------------------------------------
+PlayerID: 25002
+College: TCU
+FantasyPosition: TE
+Weight: 248
+Height: 6'5"
+Name: Drake Dabney
+Age: None
+----------------------------------------
+PlayerID: 25005
+College: Oklahoma
+FantasyPosition: WR
+Weight: 189
+Height: 5'10"
+Name: Drake Stoops
+Age: 25
+----------------------------------------
+PlayerID: 25010
+College: UNLV
+FantasyPosition: WR
+Weight: 190
+Height: 6'1"
+Name: Ricky White
+Age: 22
+----------------------------------------
+PlayerID: 25015
+College: Northern Illinois
+FantasyPosition: RB
+Weight: 219
+Height: 5'10"
+Name: Antario Brown
+Age: None
+----------------------------------------
+PlayerID: 25016
+College: Ohio State
+FantasyPosition: DL
+Weight: 270
+Height: 6'4"
+Name: JT Tuimoloau
+Age: 21
+----------------------------------------
+PlayerID: 25017
+College: Ohio State
+FantasyPosition: DB
+Weight: 190
+Height: 6'1"
+Name: Denzel Burke
+Age: 21
+----------------------------------------
+PlayerID: 25020
+College: TCU
+FantasyPosition: WR
+Weight: 180
+Height: 5'9"
+Name: Jaylon Robinson
+Age: None
+----------------------------------------
+PlayerID: 25024
+College: Clemson
+FantasyPosition: LB
+Weight: 230
+Height: 6'1"
+Name: Barrett Carter
+Age: 22
+----------------------------------------
+PlayerID: 25028
+College: Maryland
+FantasyPosition: RB
+Weight: 202
+Height: 6'2"
+Name: Roman Hemby
+Age: 22
+----------------------------------------
+PlayerID: 25032
+College: Colorado
+FantasyPosition: WR
+Weight: 180
+Height: 6'1"
+Name: Xavier Weaver
+Age: 24
+----------------------------------------
+PlayerID: 25036
+College: Grambling State
+FantasyPosition: RB
+Weight: 190
+Height: 6'1"
+Name: Maurice Washington
+Age: None
+----------------------------------------
+PlayerID: 25042
+College: TCU
+FantasyPosition: DL
+Weight: 269
+Height: 6'4"
+Name: Lwal Uguak
+Age: 24
+----------------------------------------
+PlayerID: 25043
+College: Kansas
+FantasyPosition: QB
+Weight: 196
+Height: 6'2"
+Name: Jason Bean
+Age: 25
+----------------------------------------
+PlayerID: 25044
+College: South Alabama
+FantasyPosition: QB
+Weight: 216
+Height: 6'3"
+Name: Carter Bradley
+Age: 24
+----------------------------------------
+PlayerID: 25046
+College: Nebraska
+FantasyPosition: RB
+Weight: 205
+Height: 5'11"
+Name: Anthony Grant
+Age: 25
+----------------------------------------
+PlayerID: 25047
+College: Memphis
+FantasyPosition: RB
+Weight: 195
+Height: 5'9"
+Name: Blake Watson
+Age: 25
+----------------------------------------
+PlayerID: 25048
+College: Texas Southern
+FantasyPosition: RB
+Weight: 180
+Height: 5'9"
+Name: LaDarius Owens
+Age: None
+----------------------------------------
+PlayerID: 25049
+College: Missouri
+FantasyPosition: RB
+Weight: 214
+Height: 5'9"
+Name: Cody Schrader
+Age: 25
+----------------------------------------
+PlayerID: 25050
+College: Lock Haven
+FantasyPosition: RB
+Weight: 210
+Height: 5'11"
+Name: Chris Collier
+Age: 24
+----------------------------------------
+PlayerID: 25051
+College: South Carolina
+FantasyPosition: RB
+Weight: 200
+Height: 5'9"
+Name: Dante Miller
+Age: 25
+----------------------------------------
+PlayerID: 25052
+College: Hampton
+FantasyPosition: RB
+Weight: 185
+Height: 5'10"
+Name: Darran Butts
+Age: None
+----------------------------------------
+PlayerID: 25053
+College: Oregon State
+FantasyPosition: RB
+Weight: 223
+Height: 6'1"
+Name: Deshaun Fenwick
+Age: 24
+----------------------------------------
+PlayerID: 25055
+College: Washington
+FantasyPosition: RB
+Weight: 218
+Height: 6'0"
+Name: Dillon Johnson
+Age: 23
+----------------------------------------
+PlayerID: 25056
+College: Texas A&M
+FantasyPosition: RB
+Weight: 235
+Height: 6'3"
+Name: Earnest Crownover
+Age: None
+----------------------------------------
+PlayerID: 25057
+College: Furman
+FantasyPosition: RB
+Weight: 231
+Height: 5'11"
+Name: Dominic Roberto
+Age: 23
+----------------------------------------
+PlayerID: 25058
+College: TCU
+FantasyPosition: RB
+Weight: 202
+Height: 5'7"
+Name: Emani Bailey
+Age: 22
+----------------------------------------
+PlayerID: 25059
+College: Southern
+FantasyPosition: RB
+Weight: 180
+Height: 5'8"
+Name: Gary Quarles
+Age: None
+----------------------------------------
+PlayerID: 25060
+College: Kennesaw State
+FantasyPosition: WR
+Weight: 175
+Height: 5'10"
+Name: Isaac Foster
+Age: 25
+----------------------------------------
+PlayerID: 25061
+College: Southeast Missouri State
+FantasyPosition: RB
+Weight: 225
+Height: 5'8"
+Name: Geno Hess
+Age: 24
+----------------------------------------
+PlayerID: 25062
+College: Jackson State
+FantasyPosition: RB
+Weight: 205
+Height: 5'10"
+Name: Irvin Mulligan
+Age: 23
+----------------------------------------
+PlayerID: 25065
+College: Louisiana-Lafayette
+FantasyPosition: RB
+Weight: 225
+Height: 6'1"
+Name: Jacob Kibodi
+Age: 26
+----------------------------------------
+PlayerID: 25066
+College: Brigham Young
+FantasyPosition: RB
+Weight: 237
+Height: 6'2"
+Name: Aidan Robbins
+Age: 23
+----------------------------------------
+PlayerID: 25067
+College: Georgia
+FantasyPosition: RB
+Weight: 201
+Height: 5'10"
+Name: Daijun Edwards
+Age: 23
+----------------------------------------
+PlayerID: 25068
+College: Alabama State
+FantasyPosition: RB
+Weight: 220
+Height: 6'1"
+Name: Ja'Won Howell
+Age: None
+----------------------------------------
+PlayerID: 25070
+College: West Florida
+FantasyPosition: RB
+Weight: 160
+Height: 5'5"
+Name: Jalen Bussey
+Age: None
+----------------------------------------
+PlayerID: 25071
+College: Mississippi Valley State
+FantasyPosition: RB
+Weight: 230
+Height: 5'11"
+Name: Jared Wilson
+Age: None
+----------------------------------------
+PlayerID: 25072
+College: Villanova
+FantasyPosition: RB
+Weight: 216
+Height: 5'9"
+Name: Jalen Jackson
+Age: 24
+----------------------------------------
+PlayerID: 25073
+College: Kutztown
+FantasyPosition: RB
+Weight: 185
+Height: 5'8"
+Name: Jordan Davis
+Age: None
+----------------------------------------
+PlayerID: 25074
+College: Alcorn State
+FantasyPosition: RB
+Weight: 215
+Height: 5'10"
+Name: Jarveon Howard
+Age: 24
+----------------------------------------
+PlayerID: 25075
+College: Indiana
+FantasyPosition: RB
+Weight: 225
+Height: 5'11"
+Name: Josh Henderson
+Age: 22
+----------------------------------------
+PlayerID: 25076
+College: Charleston
+FantasyPosition: RB
+Weight: 220
+Height: 6'3"
+Name: Josh Brown
+Age: None
+----------------------------------------
+PlayerID: 25077
+College: Northern Illinois
+FantasyPosition: RB
+Weight: 223
+Height: 6'0"
+Name: Kendrell Flowers
+Age: None
+----------------------------------------
+PlayerID: 25078
+College: Slippery Rock
+FantasyPosition: RB
+Weight: 190
+Height: 5'11"
+Name: Khalid Dorsey
+Age: None
+----------------------------------------
+PlayerID: 25080
+College: Virginia State
+FantasyPosition: RB
+Weight: 208
+Height: 5'11"
+Name: Kimo Clarke
+Age: None
+----------------------------------------
+PlayerID: 25081
+College: James Madison
+FantasyPosition: RB
+Weight: 220
+Height: 6'0"
+Name: Latrele Palmer
+Age: None
+----------------------------------------
+PlayerID: 25082
+College: Florida Atlantic
+FantasyPosition: RB
+Weight: 204
+Height: 5'11"
+Name: Larry McCammon III
+Age: 23
+----------------------------------------
+PlayerID: 25083
+College: North Carolina Central
+FantasyPosition: RB
+Weight: 200
+Height: 5'10"
+Name: Latrell Collier
+Age: None
+----------------------------------------
+PlayerID: 25084
+College: Jacksonville State
+FantasyPosition: RB
+Weight: 185
+Height: 5'10"
+Name: Malik Jackson
+Age: None
+----------------------------------------
+PlayerID: 25085
+College: Tennessee Tech
+FantasyPosition: RB
+Weight: 227
+Height: 6'1"
+Name: Marcus Knight
+Age: None
+----------------------------------------
+PlayerID: 25086
+College: Central Florida
+FantasyPosition: RB
+Weight: 215
+Height: 6'1"
+Name: Mark-Antony Richards
+Age: None
+----------------------------------------
+PlayerID: 25087
+College: Coastal Carolina
+FantasyPosition: RB
+Weight: 205
+Height: 5'10"
+Name: Reese White
+Age: None
+----------------------------------------
+PlayerID: 25088
+College: Shaw
+FantasyPosition: RB
+Weight: 200
+Height: 5'9"
+Name: Sidney Gibbs
+Age: None
+----------------------------------------
+PlayerID: 25089
+College: Grand Valley State
+FantasyPosition: RB
+Weight: 206
+Height: 6'0"
+Name: Tariq Reid
+Age: None
+----------------------------------------
+PlayerID: 25090
+College: Florida A&M
+FantasyPosition: RB
+Weight: 217
+Height: 6'0"
+Name: Terrell Jennings
+Age: 23
+----------------------------------------
+PlayerID: 25091
+College: Concord
+FantasyPosition: RB
+Weight: 205
+Height: 6'1"
+Name: Thurlow Wilkins
+Age: None
+----------------------------------------
+PlayerID: 25093
+College: Eastern Illinois
+FantasyPosition: RB
+Weight: 195
+Height: 5'8"
+Name: Juwon Farri
+Age: None
+----------------------------------------
+PlayerID: 25094
+College: Kentucky
+FantasyPosition: RB
+Weight: 215
+Height: 5'10"
+Name: Ramon Jefferson
+Age: 24
+----------------------------------------
+PlayerID: 25095
+College: Eastern Michigan
+FantasyPosition: RB
+Weight: 217
+Height: 6'0"
+Name: Samson Evans
+Age: None
+----------------------------------------
+PlayerID: 25096
+College: North Dakota State
+FantasyPosition: RB
+Weight: 227
+Height: 6'0"
+Name: TaMerik Williams
+Age: 25
+----------------------------------------
+PlayerID: 25099
+College: Colorado State
+FantasyPosition: TE
+Weight: 241
+Height: 6'3"
+Name: Dallin Holker
+Age: 24
+----------------------------------------
+PlayerID: 25100
+College: Southern Mississippi
+FantasyPosition: RB
+Weight: 195
+Height: 5'8"
+Name: Frank Gore Jr.
+Age: 22
+----------------------------------------
+PlayerID: 25105
+College: Ohio State
+FantasyPosition: RB
+Weight: 226
+Height: 5'9"
+Name: Miyan Williams
+Age: 23
+----------------------------------------
+PlayerID: 25107
+College: North Carolina
+FantasyPosition: TE
+Weight: 235
+Height: 6'5"
+Name: Bryson Nesbit
+Age: 22
+----------------------------------------
+PlayerID: 25108
+College: Arizona
+FantasyPosition: RB
+Weight: 209
+Height: 5'10"
+Name: Michael Wiley
+Age: 23
+----------------------------------------
+PlayerID: 25109
+College: Notre Dame
+FantasyPosition: QB
+Weight: 209
+Height: 6'1"
+Name: Sam Hartman
+Age: 25
+----------------------------------------
+PlayerID: 25114
+College: Western Kentucky
+FantasyPosition: QB
+Weight: 220
+Height: 6'1"
+Name: Austin Reed
+Age: 24
+----------------------------------------
+PlayerID: 25118
+College: Brigham Young
+FantasyPosition: P
+Weight: 235
+Height: 6'4"
+Name: Ryan Rehkow
+Age: 26
+----------------------------------------
+PlayerID: 25119
+College: Missouri
+FantasyPosition: K
+Weight: 243
+Height: 5'11"
+Name: Harrison Mevis
+Age: 22
+----------------------------------------
+PlayerID: 25122
+College: Holy Cross
+FantasyPosition: WR
+Weight: 213
+Height: 6'3"
+Name: Jalen Coker
+Age: 23
+----------------------------------------
+PlayerID: 25123
+College: Washington
+FantasyPosition: TE
+Weight: 245
+Height: 6'2"
+Name: Jack Westover
+Age: 25
+----------------------------------------
+PlayerID: 25127
+College: Maryland
+FantasyPosition: OL
+Weight: 309
+Height: 6'4"
+Name: Gottlieb Ayedze
+Age: 24
+----------------------------------------
+PlayerID: 25128
+College: Mississippi State
+FantasyPosition: WR
+Weight: 180
+Height: 5'10"
+Name: Lideatrick Griffin
+Age: 23
+----------------------------------------
+PlayerID: 25129
+College: Michigan
+FantasyPosition: OL
+Weight: 316
+Height: 6'5"
+Name: Karsen Barnhart
+Age: 23
+----------------------------------------
+PlayerID: 25131
+College: Michigan
+FantasyPosition: DB
+Weight: 189
+Height: 6'0"
+Name: Josh Wallace
+Age: 24
+----------------------------------------
+PlayerID: 25134
+College: Minnesota
+FantasyPosition: TE
+Weight: 270
+Height: 6'7"
+Name: Brevyn Spann-Ford
+Age: 24
+----------------------------------------
+PlayerID: 25135
+College: Arizona State
+FantasyPosition: DB
+Weight: 204
+Height: 6'3"
+Name: Ro Torrence
+Age: 23
+----------------------------------------
+PlayerID: 25136
+College: Kentucky
+FantasyPosition: WR
+Weight: 191
+Height: 5'10"
+Name: Tayvion Robinson
+Age: 24
+----------------------------------------
+PlayerID: 25137
+College: Georgia
+FantasyPosition: WR
+Weight: 205
+Height: 6'1"
+Name: Marcus Rosemy-Jacksaint
+Age: 22
+----------------------------------------
+PlayerID: 25142
+College: South Carolina
+FantasyPosition: TE
+Weight: 240
+Height: 6'3"
+Name: Trey Knox
+Age: 23
+----------------------------------------
+PlayerID: 25146
+College: LSU
+FantasyPosition: DB
+Weight: 194
+Height: 5'10"
+Name: Andre' Sam
+Age: 25
+----------------------------------------
+PlayerID: 25148
+College: USC
+FantasyPosition: DB
+Weight: 202
+Height: 5'11"
+Name: Chris Roland-Wallace
+Age: 22
+----------------------------------------
+PlayerID: 25149
+College: Texas A&M
+FantasyPosition: DB
+Weight: 215
+Height: 6'1"
+Name: Demani Richardson
+Age: 24
+----------------------------------------
+PlayerID: 25150
+College: Utah
+FantasyPosition: OL
+Weight: 316
+Height: 6'4"
+Name: Keaton Bills
+Age: 26
+----------------------------------------
+PlayerID: 25153
+College: Ohio State
+FantasyPosition: DB
+Weight: 199
+Height: 6'1"
+Name: Josh Proctor
+Age: 25
+----------------------------------------
+PlayerID: 25155
+College: Miami (FL)
+FantasyPosition: OL
+Weight: 322
+Height: 6'4"
+Name: Javion Cohen
+Age: 22
+----------------------------------------
+PlayerID: 25159
+College: Texas Tech
+FantasyPosition: DB
+Weight: 213
+Height: 6'2"
+Name: Tyler Owens
+Age: 23
+----------------------------------------
+PlayerID: 25168
+College: Arkansas
+FantasyPosition: DB
+Weight: 185
+Height: 6'2"
+Name: Dwight McGlothern
+Age: 22
+----------------------------------------
+PlayerID: 25171
+College: Arkansas
+FantasyPosition: DL
+Weight: 266
+Height: 6'4"
+Name: Trajan Jeffcoat
+Age: 25
+----------------------------------------
+PlayerID: 25175
+College: Syracuse
+FantasyPosition: DB
+Weight: 205
+Height: 6'3"
+Name: Isaiah Johnson
+Age: 24
+----------------------------------------
+PlayerID: 25176
+College: Fresno State
+FantasyPosition: DB
+Weight: 175
+Height: 5'11"
+Name: Carlton Johnson
+Age: 24
+----------------------------------------
+PlayerID: 25188
+College: Ohio State
+FantasyPosition: OL
+Weight: 320
+Height: 6'3"
+Name: Matthew Jones
+Age: 25
+----------------------------------------
+PlayerID: 25189
+College: Michigan
+FantasyPosition: OL
+Weight: 305
+Height: 6'4"
+Name: Trente Jones
+Age: 23
+----------------------------------------
+PlayerID: 25194
+College: Arkansas
+FantasyPosition: OL
+Weight: 312
+Height: 6'5"
+Name: Brady Latham
+Age: 24
+----------------------------------------
+PlayerID: 25195
+College: Virginia State
+FantasyPosition: DB
+Weight: 185
+Height: 6'0"
+Name: Willie Drew
+Age: 24
+----------------------------------------
+PlayerID: 25196
+College: Penn State
+FantasyPosition: DB
+Weight: 196
+Height: 6'0"
+Name: Johnny Dixon
+Age: 23
+----------------------------------------
+PlayerID: 25202
+College: Florida State
+FantasyPosition: DL
+Weight: 316
+Height: 6'3"
+Name: Fabien Lovett Sr.
+Age: 24
+----------------------------------------
+PlayerID: 25204
+College: Michigan
+FantasyPosition: DL
+Weight: 267
+Height: 6'6"
+Name: Braiden McGregor
+Age: 23
+----------------------------------------
+PlayerID: 25205
+College: Illinois
+FantasyPosition: WR
+Weight: 190
+Height: 5'10"
+Name: Isaiah Williams
+Age: 23
+----------------------------------------
+PlayerID: 25207
+College: North Carolina
+FantasyPosition: DL
+Weight: 312
+Height: 6'4"
+Name: Myles Murphy
+Age: 22
+----------------------------------------
+PlayerID: 25209
+College: TCU
+FantasyPosition: OL
+Weight: 315
+Height: 6'7"
+Name: Andrew Coker
+Age: 23
+----------------------------------------
+PlayerID: 25210
+College: Oregon State
+FantasyPosition: DB
+Weight: 192
+Height: 5'11"
+Name: Bump Cooper Jr.
+Age: 23
+----------------------------------------
+PlayerID: 25215
+College: Wyoming
+FantasyPosition: OL
+Weight: 315
+Height: 6'7"
+Name: Frank Crum
+Age: 24
+----------------------------------------
+PlayerID: 25216
+College: Howard
+FantasyPosition: OL
+Weight: 330
+Height: 6'7"
+Name: Anim Dankwah
+Age: 24
+----------------------------------------
+PlayerID: 25219
+College: TCU
+FantasyPosition: DB
+Weight: 191
+Height: 5'10"
+Name: Millard Bradford
+Age: 25
+----------------------------------------
+PlayerID: 25220
+College: Maryland
+FantasyPosition: DB
+Weight: 209
+Height: 6'0"
+Name: Beau Brade
+Age: 22
+----------------------------------------
+PlayerID: 25221
+College: Baylor
+FantasyPosition: DL
+Weight: 295
+Height: 6'6"
+Name: Gabe Hall
+Age: 23
+----------------------------------------
+PlayerID: 25223
+College: Marshall
+FantasyPosition: OL
+Weight: 313
+Height: 6'8"
+Name: Ethan Driskell
+Age: 24
+----------------------------------------
+PlayerID: 25226
+College: Florida
+FantasyPosition: OL
+Weight: 307
+Height: 6'3"
+Name: Kingsley Eguakun
+Age: 23
+----------------------------------------
+PlayerID: 25230
+College: Kentucky
+FantasyPosition: OL
+Weight: 343
+Height: 6'5"
+Name: Jeremy Flax
+Age: 25
+----------------------------------------
+PlayerID: 25236
+College: Houston
+FantasyPosition: LB
+Weight: 264
+Height: 6'3"
+Name: Nelson Ceaser
+Age: 23
+----------------------------------------
+PlayerID: 25237
+College: Wisconsin
+FantasyPosition: LB
+Weight: 232
+Height: 6'0"
+Name: Maema Njongmeta
+Age: 23
+----------------------------------------
+PlayerID: 25240
+College: UCLA
+FantasyPosition: LB
+Weight: 247
+Height: 6'2"
+Name: Gabriel Murphy
+Age: 24
+----------------------------------------
+PlayerID: 25247
+College: Penn State
+FantasyPosition: LB
+Weight: 241
+Height: 6'1"
+Name: Curtis Jacobs
+Age: 22
+----------------------------------------
+PlayerID: 25248
+College: Georgia State
+FantasyPosition: LB
+Weight: 234
+Height: 6'2"
+Name: Jontrey Hunter
+Age: 24
+----------------------------------------
+PlayerID: 25251
+College: Wyoming
+FantasyPosition: LB
+Weight: 232
+Height: 6'0"
+Name: Easton Gibbs
+Age: 23
+----------------------------------------
+PlayerID: 25254
+College: Kansas State
+FantasyPosition: LB
+Weight: 246
+Height: 6'3"
+Name: Khalid Duke
+Age: 23
+----------------------------------------
+PlayerID: 25255
+College: Liberty
+FantasyPosition: OL
+Weight: 322
+Height: 6'3"
+Name: X'Zauvea Gadlin
+Age: 25
+----------------------------------------
+PlayerID: 25258
+College: Florida State
+FantasyPosition: LB
+Weight: 212
+Height: 6'1"
+Name: Kalen DeLoach
+Age: 23
+----------------------------------------
+PlayerID: 25261
+College: Indiana
+FantasyPosition: LB
+Weight: 231
+Height: 6'1"
+Name: Aaron Casey
+Age: 24
+----------------------------------------
+PlayerID: 25267
+College: Connecticut
+FantasyPosition: DL
+Weight: 277
+Height: 6'5"
+Name: Eric Watts
+Age: 24
+----------------------------------------
+PlayerID: 25270
+College: Houston
+FantasyPosition: DL
+Weight: 250
+Height: 6'4"
+Name: David Ugwoegbu
+Age: 24
+----------------------------------------
+PlayerID: 25278
+College: Illinois
+FantasyPosition: DL
+Weight: 300
+Height: 6'5"
+Name: Keith Randolph Jr.
+Age: 23
+----------------------------------------
+PlayerID: 25283
+College: Charlotte
+FantasyPosition: DL
+Weight: 244
+Height: 6'5"
+Name: Eyabi Okie-Anoma
+Age: 25
+----------------------------------------
+PlayerID: 25284
+College: Michigan
+FantasyPosition: OL
+Weight: 298
+Height: 6'1"
+Name: Drake Nugent
+Age: 23
+----------------------------------------
+PlayerID: 25285
+College: LSU
+FantasyPosition: OL
+Weight: 303
+Height: 6'4"
+Name: Charles Turner III
+Age: 23
+----------------------------------------
+PlayerID: 25286
+College: Illinois
+FantasyPosition: OL
+Weight: 325
+Height: 6'6"
+Name: Julian Pearl
+Age: 25
+----------------------------------------
+PlayerID: 25287
+College: Tulane
+FantasyPosition: OL
+Weight: 335
+Height: 6'5"
+Name: Prince Pines
+Age: 25
+----------------------------------------
+PlayerID: 25288
+College: Oklahoma
+FantasyPosition: OL
+Weight: 327
+Height: 6'4"
+Name: Andrew Raym
+Age: 23
+----------------------------------------
+PlayerID: 25291
+College: North Dakota State
+FantasyPosition: OL
+Weight: 301
+Height: 6'5"
+Name: Jalen Sundell
+Age: 25
+----------------------------------------
+PlayerID: 25294
+College: Kansas
+FantasyPosition: RB
+Weight: 215
+Height: 6'0"
+Name: Dylan McDuffie
+Age: None
+----------------------------------------
+PlayerID: 25295
+College: Washington State
+FantasyPosition: RB
+Weight: 217
+Height: 6'0"
+Name: Nakia Watson
+Age: None
+----------------------------------------
+PlayerID: 25296
+College: Utah
+FantasyPosition: RB
+Weight: 201
+Height: 6'0"
+Name: Micah Bernard
+Age: None
+----------------------------------------
+PlayerID: 25297
+College: Virginia
+FantasyPosition: RB
+Weight: 215
+Height: 5'10"
+Name: Kobe Pace
+Age: 23
+----------------------------------------
+PlayerID: 25300
+College: Brigham Young
+FantasyPosition: TE
+Weight: 255
+Height: 6'6"
+Name: Isaac Rex
+Age: 26
+----------------------------------------
+PlayerID: 25301
+College: Sacramento State
+FantasyPosition: TE
+Weight: 230
+Height: 6'2"
+Name: Marshel Martin IV
+Age: None
+----------------------------------------
+PlayerID: 25302
+College: LSU
+FantasyPosition: RB
+Weight: 203
+Height: 5'9"
+Name: Josh Williams
+Age: None
+----------------------------------------
+PlayerID: 25303
+College: South Dakota State
+FantasyPosition: WR
+Weight: 210
+Height: 6'3"
+Name: Jaxon Janke
+Age: 25
+----------------------------------------
+PlayerID: 25305
+College: Texas-San Antonio
+FantasyPosition: WR
+Weight: 215
+Height: 6'3"
+Name: De'corian Clark
+Age: None
+----------------------------------------
+PlayerID: 25306
+College: Georgia
+FantasyPosition: WR
+Weight: 179
+Height: 5'10"
+Name: Dominic Lovett
+Age: None
+----------------------------------------
+PlayerID: 25307
+College: Tarleton State
+FantasyPosition: WR
+Weight: 190
+Height: 6'0"
+Name: Darius Cooper
+Age: None
+----------------------------------------
+PlayerID: 25308
+College: Hilsdale
+FantasyPosition: RB
+Weight: 200
+Height: 5'9"
+Name: Michael Herzog
+Age: None
+----------------------------------------
+PlayerID: 25309
+College: Northwest Missouri State
+FantasyPosition: QB
+Weight: 196
+Height: 6'2"
+Name: Mike Hohensee
+Age: None
+----------------------------------------
+PlayerID: 25310
+College: Randolph-Macon
+FantasyPosition: WR
+Weight: 184
+Height: 6'0"
+Name: David Wallis
+Age: 23
+----------------------------------------
+PlayerID: 25311
+College: Central Florida
+FantasyPosition: QB
+Weight: 200
+Height: 6'0"
+Name: John Rhys Plumlee
+Age: 23
+----------------------------------------
+PlayerID: 25312
+College: Barton
+FantasyPosition: RB
+Weight: 210
+Height: 5'10"
+Name: Jordan Terrell
+Age: 24
+----------------------------------------
+PlayerID: 25313
+College: Texas-San Antonio
+FantasyPosition: WR
+Weight: 193
+Height: 6'2"
+Name: Joshua Cephus
+Age: 23
+----------------------------------------
+PlayerID: 25314
+College: Hartpury College (UK)
+FantasyPosition: RB
+Weight: 209
+Height: 6'2"
+Name: Louis Rees-Zammit
+Age: 23
+----------------------------------------
+PlayerID: 25315
+College: None
+FantasyPosition: K
+Weight: 210
+Height: 6'4"
+Name: Charlie Smyth
+Age: 23
+----------------------------------------
+PlayerID: 25316
+College: Western Carolina
+FantasyPosition: WR
+Weight: 200
+Height: 6'4"
+Name: David White Jr.
+Age: 24
+----------------------------------------
+PlayerID: 25317
+College: Idaho
+FantasyPosition: WR
+Weight: 207
+Height: 6'1"
+Name: Hayden Hatten
+Age: 24
+----------------------------------------
+PlayerID: 25318
+College: Mississippi
+FantasyPosition: WR
+Weight: 185
+Height: 6'1"
+Name: Zakhari Franklin
+Age: 24
+----------------------------------------
+PlayerID: 25319
+College: South Dakota State
+FantasyPosition: TE
+Weight: 260
+Height: 6'7"
+Name: Zach Heins
+Age: 24
+----------------------------------------
+PlayerID: 25320
+College: Furman
+FantasyPosition: TE
+Weight: 254
+Height: 6'6"
+Name: Mason Pline
+Age: 24
+----------------------------------------
+PlayerID: 25321
+College: Maryland
+FantasyPosition: QB
+Weight: 208
+Height: 5'11"
+Name: Taulia Tagovailoa
+Age: 24
+----------------------------------------
+PlayerID: 25322
+College: Tennessee
+FantasyPosition: RB
+Weight: 198
+Height: 5'9"
+Name: Jabari Small
+Age: 22
+----------------------------------------
+PlayerID: 25323
+College: Washington State
+FantasyPosition: QB
+Weight: 223
+Height: 5'2"
+Name: Cameron Ward
+Age: 22
+----------------------------------------
+PlayerID: 25324
+College: Michigan State
+FantasyPosition: RB
+Weight: 215
+Height: 6'1"
+Name: Jalen Berger
+Age: 23
+----------------------------------------
+PlayerID: 25325
+College: Miami (FL)
+FantasyPosition: QB
+Weight: 230
+Height: 6'4"
+Name: Tyler Van Dyke
+Age: 23
+----------------------------------------
+PlayerID: 25326
+College: Michigan State
+FantasyPosition: RB
+Weight: 195
+Height: 5'9"
+Name: Jarek Broussard
+Age: 24
+----------------------------------------
+PlayerID: 25327
+College: Western Michigan
+FantasyPosition: QB
+Weight: 210
+Height: 6'1"
+Name: Kaleb Eleby
+Age: 24
+----------------------------------------
+PlayerID: 25328
+College: Texas Tech
+FantasyPosition: TE
+Weight: 243
+Height: 6'6"
+Name: Baylor Cupp
+Age: 24
+----------------------------------------
+PlayerID: 25330
+College: Iowa State
+FantasyPosition: RB
+Weight: 220
+Height: 6'0"
+Name: Jirehl Brock
+Age: 24
+----------------------------------------
+PlayerID: 25331
+College: Notre Dame
+FantasyPosition: WR
+Weight: 192
+Height: 5'9"
+Name: Chris Tyree
+Age: 22
+----------------------------------------
+PlayerID: 25333
+College: West Florida
+FantasyPosition: WR
+Weight: 205
+Height: 6'3"
+Name: John Jiles
+Age: 24
+----------------------------------------
+PlayerID: 25352
+College: Duke
+FantasyPosition: DL
+Weight: 311
+Height: 6'1"
+Name: Ja'Mion Franklin
+Age: 24
+----------------------------------------
+PlayerID: 25353
+College: Louisville
+FantasyPosition: QB
+Weight: 215
+Height: 6'5"
+Name: Jack Plummer
+Age: 25
+----------------------------------------
+PlayerID: 25354
+College: South Florida
+FantasyPosition: OL
+Weight: 334
+Height: 6'7"
+Name: Bayron Matos
+Age: 23
+----------------------------------------
+PlayerID: 25355
+College: Coastal Carolina
+FantasyPosition: DL
+Weight: 280
+Height: 6'3"
+Name: Micheal Mason
+Age: 23
+----------------------------------------
+PlayerID: 25356
+College: Mississippi
+FantasyPosition: LB
+Weight: 230
+Height: 6'2"
+Name: Jeremiah Jean-Baptiste
+Age: 23
+----------------------------------------
+PlayerID: 25357
+College: Washington State
+FantasyPosition: DL
+Weight: 247
+Height: 6'3"
+Name: Ron Stone Jr.
+Age: 24
+----------------------------------------
+PlayerID: 25358
+College: Wisconsin
+FantasyPosition: QB
+Weight: 218
+Height: 6'2"
+Name: Tanner Mordecai
+Age: 25
+----------------------------------------
+PlayerID: 25359
+College: Weber State
+FantasyPosition: LB
+Weight: 225
+Height: 6'0"
+Name: Winston Reid
+Age: 25
+----------------------------------------
+PlayerID: 25360
+College: Baylor
+FantasyPosition: OL
+Weight: 306
+Height: 6'5"
+Name: Clark Barrington
+Age: 26
+----------------------------------------
+PlayerID: 25361
+College: British Columbia (Canada)
+FantasyPosition: OL
+Weight: 305
+Height: 6'7"
+Name: Theo Benedet
+Age: 23
+----------------------------------------
+PlayerID: 25362
+College: Appalachian State
+FantasyPosition: DB
+Weight: 185
+Height: 6'0"
+Name: Tyrek Funderburk
+Age: 23
+----------------------------------------
+PlayerID: 25363
+College: Arizona State
+FantasyPosition: DB
+Weight: 210
+Height: 6'2"
+Name: Chris Edmonds
+Age: 23
+----------------------------------------
+PlayerID: 25364
+College: Coastal Carolina
+FantasyPosition: WR
+Weight: 220
+Height: 6'4"
+Name: Sam Pinckney
+Age: 25
+----------------------------------------
+PlayerID: 25365
+College: Mississippi State
+FantasyPosition: DB
+Weight: 190
+Height: 6'0"
+Name: Marcus Banks
+Age: 24
+----------------------------------------
+PlayerID: 25366
+College: Boston College
+FantasyPosition: OL
+Weight: 315
+Height: 6'2"
+Name: Kyle Hergel
+Age: 25
+----------------------------------------
+PlayerID: 25367
+College: Nebraska
+FantasyPosition: OL
+Weight: 315
+Height: 6'4"
+Name: Nouri Nouili
+Age: 24
+----------------------------------------
+PlayerID: 25368
+College: Arizona
+FantasyPosition: DL
+Weight: 246
+Height: 6'3"
+Name: Taylor Upshaw
+Age: 25
+----------------------------------------
+PlayerID: 25369
+College: Duke
+FantasyPosition: WR
+Weight: 194
+Height: 5'11"
+Name: Jalon Calhoun
+Age: 23
+----------------------------------------
+PlayerID: 25370
+College: Idaho
+FantasyPosition: WR
+Weight: 170
+Height: 5'7"
+Name: Jermaine Jackson
+Age: 24
+----------------------------------------
+PlayerID: 25371
+College: Oklahoma State
+FantasyPosition: DL
+Weight: 265
+Height: 6'4"
+Name: Nate Latu
+Age: 24
+----------------------------------------
+PlayerID: 25372
+College: Illinois State
+FantasyPosition: QB
+Weight: 220
+Height: 6'3"
+Name: Zack Annexstad
+Age: 24
+----------------------------------------
+PlayerID: 25373
+College: Air Force
+FantasyPosition: LB
+Weight: 240
+Height: 6'3"
+Name: Alec Mock
+Age: 22
+----------------------------------------
+PlayerID: 25374
+College: TCU
+FantasyPosition: DB
+Weight: 215
+Height: 6'0"
+Name: Mark Perry
+Age: 23
+----------------------------------------
+PlayerID: 25376
+College: Ohio
+FantasyPosition: WR
+Weight: 187
+Height: 6'0"
+Name: Sam Wiglusz
+Age: 25
+----------------------------------------
+PlayerID: 25377
+College: Nebraska
+FantasyPosition: DB
+Weight: 200
+Height: 6'1"
+Name: Omar Brown
+Age: 24
+----------------------------------------
+PlayerID: 25378
+College: Toledo
+FantasyPosition: DL
+Weight: 293
+Height: 6'4"
+Name: Judge Culpepper
+Age: 24
+----------------------------------------
+PlayerID: 25379
+College: Iowa
+FantasyPosition: DL
+Weight: 300
+Height: 6'1"
+Name: Noah Shannon
+Age: 24
+----------------------------------------
+PlayerID: 25380
+College: Louisville
+FantasyPosition: OL
+Weight: 301
+Height: 6'5"
+Name: Bryan Hudson
+Age: 23
+----------------------------------------
+PlayerID: 25381
+College: UCLA
+FantasyPosition: OL
+Weight: 305
+Height: 6'4"
+Name: Duke Clemens
+Age: 23
+----------------------------------------
+PlayerID: 25382
+College: Louisville
+FantasyPosition: DB
+Weight: 195
+Height: 6'0"
+Name: Storm Duck
+Age: 23
+----------------------------------------
+PlayerID: 25383
+College: South Florida
+FantasyPosition: OL
+Weight: 323
+Height: 6'4"
+Name: Donovan Jennings
+Age: 24
+----------------------------------------
+PlayerID: 25384
+College: Vanderbilt
+FantasyPosition: P
+Weight: 189
+Height: 6'0"
+Name: Matthew Hayball
+Age: 27
+----------------------------------------
+PlayerID: 25385
+College: West Virginia
+FantasyPosition: OL
+Weight: 306
+Height: 6'6"
+Name: Doug Nester
+Age: 24
+----------------------------------------
+PlayerID: 25386
+College: Memphis
+FantasyPosition: LB
+Weight: 240
+Height: 6'3"
+Name: Jaylon Allen
+Age: 24
+----------------------------------------
+PlayerID: 25387
+College: Rutgers
+FantasyPosition: DL
+Weight: 277
+Height: 6'2"
+Name: Isaiah Iton
+Age: 23
+----------------------------------------
+PlayerID: 25388
+College: Rhode Island
+FantasyPosition: OL
+Weight: 305
+Height: 6'6"
+Name: Lorenzo Thompson
+Age: 24
+----------------------------------------
+PlayerID: 25389
+College: Towson
+FantasyPosition: DB
+Weight: 193
+Height: 6'0"
+Name: Robert Javier
+Age: 24
+----------------------------------------
+PlayerID: 25390
+College: James Madison
+FantasyPosition: DL
+Weight: 275
+Height: 6'4"
+Name: Jamree Kromah
+Age: 24
+----------------------------------------
+PlayerID: 25391
+College: Tennessee
+FantasyPosition: TE
+Weight: 250
+Height: 6'4"
+Name: McCallan Castles
+Age: 24
+----------------------------------------
+PlayerID: 25392
+College: Texas Tech
+FantasyPosition: WR
+Weight: 190
+Height: 5'10"
+Name: Xavier White
+Age: 24
+----------------------------------------
+PlayerID: 25393
+College: Charlotte
+FantasyPosition: LB
+Weight: 265
+Height: 6'6"
+Name: Julius Welschof
+Age: 27
+----------------------------------------
+PlayerID: 25394
+College: Georgia Tech
+FantasyPosition: TE
+Weight: 233
+Height: 6'4"
+Name: Luke Benson
+Age: 23
+----------------------------------------
+PlayerID: 25395
+College: Utah
+FantasyPosition: TE
+Weight: 251
+Height: 6'5"
+Name: Thomas Yassmin
+Age: 24
+----------------------------------------
+PlayerID: 25396
+College: Tulane
+FantasyPosition: WR
+Weight: 170
+Height: 5'11"
+Name: Lawrence Keys
+Age: 24
+----------------------------------------
+PlayerID: 25397
+College: Texas Tech
+FantasyPosition: P
+Weight: 204
+Height: 6'5"
+Name: Austin McNamara
+Age: 23
+----------------------------------------
+PlayerID: 25398
+College: San Diego State
+FantasyPosition: P
+Weight: 190
+Height: 5'11"
+Name: Jack Browning
+Age: 22
+----------------------------------------
+PlayerID: 25399
+College: Arizona
+FantasyPosition: DL
+Weight: 315
+Height: 6'5"
+Name: Tyler Manoa
+Age: 24
+----------------------------------------
+PlayerID: 25400
+College: James Madison
+FantasyPosition: WR
+Weight: 189
+Height: 6'0"
+Name: Reggie Brown
+Age: None
+----------------------------------------
+PlayerID: 25401
+College: Arkansas
+FantasyPosition: DL
+Weight: 252
+Height: 6'1"
+Name: John Morgan III
+Age: 24
+----------------------------------------
+PlayerID: 25402
+College: Albany
+FantasyPosition: WR
+Weight: 187
+Height: 5'10"
+Name: Brevin Easton
+Age: 23
+----------------------------------------
+PlayerID: 25403
+College: Notre Dame
+FantasyPosition: K
+Weight: 201
+Height: 6'2"
+Name: Spencer Shrader
+Age: 25
+----------------------------------------
+PlayerID: 25405
+College: Pittsburgh
+FantasyPosition: DB
+Weight: 186
+Height: 5'9"
+Name: A.J. Woods
+Age: 23
+----------------------------------------
+PlayerID: 25406
+College: Southern Utah
+FantasyPosition: WR
+Weight: 170
+Height: 5'9"
+Name: Isaiah Wooden
+Age: 24
+----------------------------------------
+PlayerID: 25407
+College: Southern Methodist
+FantasyPosition: DL
+Weight: 281
+Height: 6'3"
+Name: Devere Levelston
+Age: 23
+----------------------------------------
+PlayerID: 25408
+College: Kansas
+FantasyPosition: OL
+Weight: 309
+Height: 6'3"
+Name: Michael Novitsky
+Age: 24
+----------------------------------------
+PlayerID: 25409
+College: Yale
+FantasyPosition: WR
+Weight: 187
+Height: 5'11"
+Name: Mason Tipton
+Age: 24
+----------------------------------------
+PlayerID: 25410
+College: South Dakota
+FantasyPosition: DB
+Weight: 188
+Height: 5'10"
+Name: DyShawn Gales
+Age: 24
+----------------------------------------
+PlayerID: 25411
+College: Army
+FantasyPosition: LB
+Weight: 225
+Height: 6'2"
+Name: Jimmy Ciarlo
+Age: 23
+----------------------------------------
+PlayerID: 25412
+College: Cincinnati
+FantasyPosition: LB
+Weight: 245
+Height: 6'1"
+Name: Daniel Grzesiak
+Age: 23
+----------------------------------------
+PlayerID: 25413
+College: Florida Atlantic
+FantasyPosition: DL
+Weight: 326
+Height: 6'3"
+Name: Evan Anderson
+Age: 22
+----------------------------------------
+PlayerID: 25414
+College: Missouri State
+FantasyPosition: WR
+Weight: 193
+Height: 6'3"
+Name: Terique Owens
+Age: 25
+----------------------------------------
+PlayerID: 25415
+College: Minnesota
+FantasyPosition: DL
+Weight: 305
+Height: 6'2"
+Name: Kyler Baugh
+Age: 22
+----------------------------------------
+PlayerID: 25416
+College: Georgia
+FantasyPosition: DL
+Weight: 283
+Height: 6'3"
+Name: Tramel Walthour
+Age: 24
+----------------------------------------
+PlayerID: 25417
+College: West Virginia
+FantasyPosition: DB
+Weight: 182
+Height: 5'9"
+Name: Beanie Bishop Jr.
+Age: 24
+----------------------------------------
+PlayerID: 25418
+College: Iowa
+FantasyPosition: LB
+Weight: 252
+Height: 6'1"
+Name: Joe Evans
+Age: 25
+----------------------------------------
+PlayerID: 25419
+College: Northern Illinois
+FantasyPosition: OL
+Weight: 301
+Height: 6'6"
+Name: Nolan Potter
+Age: 25
+----------------------------------------
+PlayerID: 25420
+College: Tennessee
+FantasyPosition: TE
+Weight: 251
+Height: 6'6"
+Name: Jacob Warren
+Age: 24
+----------------------------------------
+PlayerID: 25421
+College: Notre Dame
+FantasyPosition: DB
+Weight: 195
+Height: 5'10"
+Name: Thomas Harper
+Age: 24
+----------------------------------------
+PlayerID: 25422
+College: North Carolina State
+FantasyPosition: K
+Weight: 215
+Height: 6'0"
+Name: Brayden Narveson
+Age: 25
+----------------------------------------
+PlayerID: 25423
+College: Missouri
+FantasyPosition: OL
+Weight: 307
+Height: 6'4"
+Name: Marcellus Johnson
+Age: 24
+----------------------------------------
+PlayerID: 25424
+College: South Dakota State
+FantasyPosition: OL
+Weight: 310
+Height: 6'6"
+Name: Garret Greenfield
+Age: 25
+----------------------------------------
+PlayerID: 25425
+College: California
+FantasyPosition: OL
+Weight: 295
+Height: 6'4"
+Name: Matt Cindric
+Age: 25
+----------------------------------------
+PlayerID: 25426
+College: Miami (FL)
+FantasyPosition: LB
+Weight: 228
+Height: 6'2"
+Name: K.J. Cloyd
+Age: 23
+----------------------------------------
+PlayerID: 25427
+College: Toledo
+FantasyPosition: LB
+Weight: 224
+Height: 6'2"
+Name: Dallas Gant
+Age: 24
+----------------------------------------
+PlayerID: 25428
+College: Mercer
+FantasyPosition: WR
+Weight: 170
+Height: 5'9"
+Name: Devron Harper
+Age: 24
+----------------------------------------
+PlayerID: 25429
+College: Mercer
+FantasyPosition: WR
+Weight: 200
+Height: 6'2"
+Name: Ty James
+Age: 23
+----------------------------------------
+PlayerID: 25430
+College: Maryland
+FantasyPosition: WR
+Weight: 188
+Height: 6'1"
+Name: Jeshaun Jones
+Age: 24
+----------------------------------------
+PlayerID: 25431
+College: Florida International
+FantasyPosition: LB
+Weight: 230
+Height: 6'1"
+Name: Donovan Manuel
+Age: 24
+----------------------------------------
+PlayerID: 25432
+College: Marshall
+FantasyPosition: LB
+Weight: 237
+Height: 6'3"
+Name: Owen Porter
+Age: 24
+----------------------------------------
+PlayerID: 25433
+College: Air Force
+FantasyPosition: LB
+Weight: 248
+Height: 6'1"
+Name: Bo Richter
+Age: 24
+----------------------------------------
+PlayerID: 25434
+College: North Carolina
+FantasyPosition: OL
+Weight: 306
+Height: 6'6"
+Name: Spencer Rolland
+Age: 25
+----------------------------------------
+PlayerID: 25435
+College: Michigan State
+FantasyPosition: LB
+Weight: 250
+Height: 6'2"
+Name: Jacoby Windmon
+Age: 23
+----------------------------------------
+PlayerID: 25436
+College: Oregon
+FantasyPosition: DL
+Weight: 309
+Height: 6'1"
+Name: Taki Taimani
+Age: 25
+----------------------------------------
+PlayerID: 25437
+College: Texas-El Paso
+FantasyPosition: QB
+Weight: 206
+Height: 6'2"
+Name: Gavin Hardison
+Age: 22
+----------------------------------------
+PlayerID: 25438
+College: Colorado
+FantasyPosition: DL
+Weight: 301
+Height: 6'3"
+Name: Leonard Payne
+Age: 24
+----------------------------------------
+PlayerID: 25439
+College: North Carolina State
+FantasyPosition: LS
+Weight: 233
+Height: 6'0"
+Name: Joe Shimko
+Age: 24
+----------------------------------------
+PlayerID: 25440
+College: Arizona
+FantasyPosition: RB
+Weight: 225
+Height: 6'0"
+Name: D.J. Williams
+Age: 23
+----------------------------------------
+PlayerID: 25441
+College: Toledo
+FantasyPosition: DB
+Weight: 192
+Height: 5'10"
+Name: Chris McDonald
+Age: 25
+----------------------------------------
+PlayerID: 25442
+College: Iowa State
+FantasyPosition: DB
+Weight: 210
+Height: 6'1"
+Name: Ben Nikkel
+Age: 25
+----------------------------------------
+PlayerID: 25443
+College: Texas Tech
+FantasyPosition: DB
+Weight: 209
+Height: 6'2"
+Name: Rayshad Williams
+Age: 24
+----------------------------------------
+PlayerID: 25444
+College: Arkansas State
+FantasyPosition: WR
+Weight: 186
+Height: 6'0"
+Name: Jeff Foreman
+Age: 24
+----------------------------------------
+PlayerID: 25445
+College: Texas
+FantasyPosition: P
+Weight: 211
+Height: 6'3"
+Name: Ryan Sanborn
+Age: 24
+----------------------------------------
+PlayerID: 25446
+College: North Carolina
+FantasyPosition: DL
+Weight: 288
+Height: 6'2"
+Name: Tomari Fox
+Age: 23
+----------------------------------------
+PlayerID: 25447
+College: Rutgers
+FantasyPosition: WR
+Weight: 184
+Height: 6'1"
+Name: JaQuae Jackson
+Age: 24
+----------------------------------------
+PlayerID: 25448
+College: Baylor
+FantasyPosition: DL
+Weight: 257
+Height: 6'5"
+Name: TJ Franklin
+Age: 23
+----------------------------------------
+PlayerID: 25449
+College: North Carolina
+FantasyPosition: LB
+Weight: 236
+Height: 6'3"
+Name: Amari Gainer
+Age: 24
+----------------------------------------
+PlayerID: 25450
+College: Texas A&M
+FantasyPosition: DB
+Weight: 184
+Height: 5'11"
+Name: Josh DeBerry
+Age: 23
+----------------------------------------
+PlayerID: 25451
+College: Maryland
+FantasyPosition: OL
+Weight: 314
+Height: 6'3"
+Name: Corey Bullock
+Age: 22
+----------------------------------------
+PlayerID: 25452
+College: North Carolina
+FantasyPosition: RB
+Weight: 225
+Height: 5'11"
+Name: British Brooks
+Age: 24
+----------------------------------------
+PlayerID: 25453
+College: North Central College
+FantasyPosition: WR
+Weight: 208
+Height: 6'1"
+Name: DeAngelo Hardy
+Age: 24
+----------------------------------------
+PlayerID: 25454
+College: Alabama
+FantasyPosition: OL
+Weight: 320
+Height: 6'3"
+Name: Darrian Dalcourt
+Age: 24
+----------------------------------------
+PlayerID: 25455
+College: Mississippi
+FantasyPosition: WR
+Weight: 184
+Height: 5'9"
+Name: Dayton Wade
+Age: 24
+----------------------------------------
+PlayerID: 25456
+College: Colorado State
+FantasyPosition: DB
+Weight: 200
+Height: 6'1"
+Name: Chigozie Anusiem
+Age: 24
+----------------------------------------
+PlayerID: 25457
+College: Notre Dame
+FantasyPosition: LB
+Weight: 253
+Height: 6'3"
+Name: Bo Bauer
+Age: 24
+----------------------------------------
+PlayerID: 25458
+College: Virginia Tech
+FantasyPosition: DL
+Weight: 260
+Height: 6'1"
+Name: Norell Pollard
+Age: 24
+----------------------------------------
+PlayerID: 25459
+College: Ohio State
+FantasyPosition: WR
+Weight: 204
+Height: 6'1"
+Name: Xavier Johnson
+Age: 25
+----------------------------------------
+PlayerID: 25460
+College: Auburn
+FantasyPosition: OL
+Weight: 312
+Height: 6'6"
+Name: Gunner Britton
+Age: 24
+----------------------------------------
+PlayerID: 25461
+College: Western Michigan
+FantasyPosition: DB
+Weight: 176
+Height: 5'10"
+Name: Keni-h Lovely
+Age: 24
+----------------------------------------
+PlayerID: 25462
+College: Tulane
+FantasyPosition: OL
+Weight: 310
+Height: 6'1"
+Name: Sincere Haynesworth
+Age: 23
+----------------------------------------
+PlayerID: 25463
+College: Miami (FL)
+FantasyPosition: DL
+Weight: 280
+Height: 6'2"
+Name: Branson Deen
+Age: 24
+----------------------------------------
+PlayerID: 25464
+College: Southeast Missouri State
+FantasyPosition: DB
+Weight: 205
+Height: 6'0"
+Name: Lawrence Johnson
+Age: 25
+----------------------------------------
+PlayerID: 25465
+College: Penn State
+FantasyPosition: DB
+Weight: 185
+Height: 5'11"
+Name: Keaton Ellis
+Age: 23
+----------------------------------------
+PlayerID: 25466
+College: Tennessee
+FantasyPosition: DB
+Weight: 189
+Height: 6'1"
+Name: Gabe Jeudy-Lally
+Age: 23
+----------------------------------------
+PlayerID: 25467
+College: Slippery Rock
+FantasyPosition: WR
+Weight: 220
+Height: 6'4"
+Name: Kyle Sheets
+Age: 24
+----------------------------------------
+PlayerID: 25468
+College: Iowa
+FantasyPosition: TE
+Weight: 251
+Height: 6'5"
+Name: Steven Stilianos
+Age: 24
+----------------------------------------
+PlayerID: 25469
+College: Pittsburg State (KS)
+FantasyPosition: DB
+Weight: 182
+Height: 6'0"
+Name: Rico Payton
+Age: 24
+----------------------------------------
+PlayerID: 25470
+College: South Dakota State
+FantasyPosition: LB
+Weight: 215
+Height: 6'1"
+Name: Isaiah Stalbird
+Age: 24
+----------------------------------------
+PlayerID: 25471
+College: Western Carolina
+FantasyPosition: DB
+Weight: 199
+Height: 6'0"
+Name: Rod Gattison
+Age: 23
+----------------------------------------
+PlayerID: 25472
+College: Tennessee
+FantasyPosition: OL
+Weight: 315
+Height: 6'5"
+Name: Jeremiah Crawford
+Age: 25
+----------------------------------------
+PlayerID: 25473
+College: Vanderbilt
+FantasyPosition: DB
+Weight: 200
+Height: 5'11"
+Name: Jaylen Mahoney
+Age: 23
+----------------------------------------
+PlayerID: 25474
+College: Oregon
+FantasyPosition: DL
+Weight: 315
+Height: 6'3"
+Name: Popo Aumavae
+Age: 25
+----------------------------------------
+PlayerID: 25475
+College: Colorado
+FantasyPosition: DL
+Weight: 250
+Height: 6'4"
+Name: Derrick McLendon
+Age: 24
+----------------------------------------
+PlayerID: 25476
+College: Auburn
+FantasyPosition: OL
+Weight: 307
+Height: 6'4"
+Name: Avery Jones
+Age: 25
+----------------------------------------
+PlayerID: 25477
+College: Texas-San Antonio
+FantasyPosition: DB
+Weight: 210
+Height: 5'9"
+Name: Rashad Wisdom
+Age: 23
+----------------------------------------
+PlayerID: 25478
+College: Mississippi
+FantasyPosition: DB
+Weight: 190
+Height: 6'1"
+Name: DeShawn Gaddie
+Age: None
+----------------------------------------
+PlayerID: 25479
+College: Coastal Carolina
+FantasyPosition: DB
+Weight: 220
+Height: 6'2"
+Name: Clayton Isbell
+Age: 24
+----------------------------------------
+PlayerID: 25480
+College: Missouri
+FantasyPosition: OL
+Weight: 329
+Height: 6'4"
+Name: Xavier Delgado
+Age: 24
+----------------------------------------
+PlayerID: 25481
+College: Howard
+FantasyPosition: RB
+Weight: 205
+Height: 5'11"
+Name: Ian Wheeler
+Age: 23
+----------------------------------------
+PlayerID: 25482
+College: Arkansas
+FantasyPosition: LB
+Weight: 230
+Height: 6'1"
+Name: Antonio Grier Jr.
+Age: 24
+----------------------------------------
+PlayerID: 25483
+College: Mississippi
+FantasyPosition: DL
+Weight: 258
+Height: 6'3"
+Name: Isaac Ukwu
+Age: 25
+----------------------------------------
+PlayerID: 25484
+College: Troy
+FantasyPosition: DB
+Weight: 178
+Height: 5'11"
+Name: Reddy Steward
+Age: 23
+----------------------------------------
+PlayerID: 25485
+College: Oklahoma State
+FantasyPosition: DL
+Weight: 284
+Height: 6'5"
+Name: Anthony Goodlow
+Age: 24
+----------------------------------------
+PlayerID: 25486
+College: Kentucky
+FantasyPosition: TE
+Weight: 255
+Height: 6'5"
+Name: Brenden Bates
+Age: 25
+----------------------------------------
+PlayerID: 25487
+College: UCLA
+FantasyPosition: DL
+Weight: 230
+Height: 6'2"
+Name: Carl Jones Jr.
+Age: 23
+----------------------------------------
+PlayerID: 25488
+College: Bowling Green
+FantasyPosition: WR
+Weight: 185
+Height: 6'0"
+Name: OJ Hiliare
+Age: 23
+----------------------------------------
+PlayerID: 25489
+College: Tennessee
+FantasyPosition: LB
+Weight: 225
+Height: 6'1"
+Name: Aaron Beasley
+Age: 24
+----------------------------------------
+PlayerID: 25490
+College: Tennessee
+FantasyPosition: DB
+Weight: 190
+Height: 5'10"
+Name: Dee Williams
+Age: 24
+----------------------------------------
+PlayerID: 25491
+College: San Jose State
+FantasyPosition: QB
+Weight: 200
+Height: 6'0"
+Name: Chevan Cordeiro
+Age: None
+----------------------------------------
+PlayerID: 25492
+College: Grambling State
+FantasyPosition: LB
+Weight: 250
+Height: 6'4"
+Name: Sunny Anderson
+Age: 24
+----------------------------------------
+PlayerID: 25493
+College: Southern Mississippi
+FantasyPosition: OL
+Weight: 295
+Height: 6'4"
+Name: Briason Mays
+Age: 24
+----------------------------------------
+PlayerID: 25494
+College: Northern Illinois
+FantasyPosition: QB
+Weight: 225
+Height: 6'4"
+Name: Rocky Lombardi
+Age: 26
+----------------------------------------
+PlayerID: 25495
+College: Marshall
+FantasyPosition: WR
+Weight: 182
+Height: 5'11"
+Name: Talik Keaton
+Age: None
+----------------------------------------
+PlayerID: 25496
+College: South Dakota State
+FantasyPosition: WR
+Weight: 210
+Height: 6'3"
+Name: Jadon Janke
+Age: 25
+----------------------------------------
+PlayerID: 25497
+College: Akron
+FantasyPosition: RB
+Weight: 205
+Height: 6'0"
+Name: Lorenzo Lingard
+Age: 25
+----------------------------------------
+PlayerID: 25498
+College: Tennessee
+FantasyPosition: WR
+Weight: 191
+Height: 6'2"
+Name: Ramel Keyton
+Age: 24
+----------------------------------------
+PlayerID: 25499
+College: Clemson
+FantasyPosition: OL
+Weight: 310
+Height: 6'4"
+Name: Will Putnam
+Age: 24
+----------------------------------------
+PlayerID: 25500
+College: Furman
+FantasyPosition: OL
+Weight: 290
+Height: 6'2"
+Name: Jake Johanning
+Age: 23
+----------------------------------------
+PlayerID: 25501
+College: Northern Iowa
+FantasyPosition: DB
+Weight: 190
+Height: 5'10"
+Name: Woo Governor
+Age: 24
+----------------------------------------
+PlayerID: 25502
+College: Maryland
+FantasyPosition: DB
+Weight: 202
+Height: 6'2"
+Name: Ja'Quan Sheppard
+Age: 24
+----------------------------------------
+PlayerID: 25503
+College: Nebraska
+FantasyPosition: DB
+Weight: 195
+Height: 5'11"
+Name: Phalen Sanford
+Age: 24
+----------------------------------------
+PlayerID: 25504
+College: SUNY-Cortland
+FantasyPosition: WR
+Weight: 192
+Height: 6'1"
+Name: Cole Burgess
+Age: 24
+----------------------------------------
+PlayerID: 25505
+College: Miami (OH)
+FantasyPosition: DB
+Weight: 217
+Height: 6'0"
+Name: Michael Dowell
+Age: 24
+----------------------------------------
+PlayerID: 25506
+College: Augustana (SD)
+FantasyPosition: QB
+Weight: 238
+Height: 6'6"
+Name: Casey Bauman
+Age: 24
+----------------------------------------
+PlayerID: 25507
+College: Southern Illinois
+FantasyPosition: DB
+Weight: 203
+Height: 6'0"
+Name: PJ Jules
+Age: 26
+----------------------------------------
+PlayerID: 25508
+College: Oklahoma State
+FantasyPosition: RB
+Weight: 212
+Height: 6'0"
+Name: Elijah Collins
+Age: 24
+----------------------------------------
+PlayerID: 25509
+College: Fresno State
+FantasyPosition: WR
+Weight: 185
+Height: 6'0"
+Name: Jaelen Gill
+Age: 24
+----------------------------------------
+PlayerID: 25510
+College: Louisville
+FantasyPosition: OL
+Weight: 311
+Height: 6'8"
+Name: Eric Miller
+Age: 24
+----------------------------------------
+PlayerID: 25511
+College: East Carolina
+FantasyPosition: WR
+Weight: 194
+Height: 6'2"
+Name: Jaylen Johnson
+Age: 24
+----------------------------------------
+PlayerID: 25512
+College: Tulane
+FantasyPosition: DB
+Weight: 185
+Height: 5'10"
+Name: Lance Robinson
+Age: 24
+----------------------------------------
+PlayerID: 25513
+College: Illinois State
+FantasyPosition: TE
+Weight: 253
+Height: 6'5"
+Name: Cam Grandy
+Age: 24
+----------------------------------------
+PlayerID: 25514
+College: Oklahoma State
+FantasyPosition: WR
+Weight: 215
+Height: 6'5"
+Name: Leon Johnson
+Age: 23
+----------------------------------------
+PlayerID: 25515
+College: Northwestern
+FantasyPosition: WR
+Weight: 202
+Height: 6'0"
+Name: Cam Johnson
+Age: 25
+----------------------------------------
+PlayerID: 25516
+College: Baylor
+FantasyPosition: LB
+Weight: 225
+Height: 6'3"
+Name: Byron Vaughns
+Age: 24
+----------------------------------------
+PlayerID: 25517
+College: Illinois
+FantasyPosition: DL
+Weight: 304
+Height: 6'2"
+Name: Denzel Daxon
+Age: 25
+----------------------------------------
+PlayerID: 25518
+College: Central Florida
+FantasyPosition: TE
+Weight: 242
+Height: 6'3"
+Name: Alec Holler
+Age: 25
+----------------------------------------
+PlayerID: 25519
+College: East Carolina
+FantasyPosition: DB
+Weight: 193
+Height: 6'1"
+Name: Julius Wood
+Age: 23
+----------------------------------------
+PlayerID: 25520
+College: Central Florida
+FantasyPosition: LB
+Weight: 228
+Height: 6'1"
+Name: Jason Johnson
+Age: 23
+----------------------------------------
+PlayerID: 25521
+College: Illinois
+FantasyPosition: DB
+Weight: 215
+Height: 6'2"
+Name: Solo Turner
+Age: 24
+----------------------------------------
+PlayerID: 25522
+College: South Dakota
+FantasyPosition: LB
+Weight: 234
+Height: 6'2"
+Name: Brock Mogensen
+Age: 24
+----------------------------------------
+PlayerID: 25523
+College: Minnesota
+FantasyPosition: WR
+Weight: 180
+Height: 5'11"
+Name: Corey Crooms
+Age: 23
+----------------------------------------
+PlayerID: 25524
+College: Southern Methodist
+FantasyPosition: DL
+Weight: 307
+Height: 6'3"
+Name: Jordan Miller
+Age: 24
+----------------------------------------
+PlayerID: 25525
+College: Oregon
+FantasyPosition: OL
+Weight: 342
+Height: 6'5"
+Name: Steven Jones
+Age: 24
+----------------------------------------
+PlayerID: 25526
+College: Indiana
+FantasyPosition: DL
+Weight: 270
+Height: 6'5"
+Name: Andre Carter
+Age: 24
+----------------------------------------
+PlayerID: 25527
+College: Villanova
+FantasyPosition: OL
+Weight: 306
+Height: 6'6"
+Name: Nick Torres
+Age: 25
+----------------------------------------
+PlayerID: 25528
+College: Florida State
+FantasyPosition: DB
+Weight: 191
+Height: 6'1"
+Name: Akeem Dent
+Age: 24
+----------------------------------------
+PlayerID: 25529
+College: Wisconsin
+FantasyPosition: TE
+Weight: 247
+Height: 6'5"
+Name: Hayden Rucci
+Age: 23
+----------------------------------------
+PlayerID: 25530
+College: Appalachian State
+FantasyPosition: OL
+Weight: 300
+Height: 6'3"
+Name: Bucky Williams
+Age: 24
+----------------------------------------
+PlayerID: 25531
+College: Rhode Island
+FantasyPosition: DB
+Weight: 214
+Height: 6'2"
+Name: Jordan Colbert
+Age: 24
+----------------------------------------
+PlayerID: 25532
+College: TCU
+FantasyPosition: OL
+Weight: 338
+Height: 6'4"
+Name: Willis Patrick
+Age: 24
+----------------------------------------
+PlayerID: 25533
+College: Campbell
+FantasyPosition: OL
+Weight: 355
+Height: 6'8"
+Name: Tyler McLellan
+Age: 25
+----------------------------------------
+PlayerID: 25534
+College: Western Carolina
+FantasyPosition: OL
+Weight: 310
+Height: 6'8"
+Name: Tyler Smith
+Age: 25
+----------------------------------------
+PlayerID: 25535
+College: North Carolina State
+FantasyPosition: LB
+Weight: 290
+Height: 6'2"
+Name: Savion Jackson
+Age: 25
+----------------------------------------
+PlayerID: 25536
+College: Central Florida
+FantasyPosition: LB
+Weight: 245
+Height: 6'2"
+Name: Tre'Mon Morris-Brash
+Age: 24
+----------------------------------------
+PlayerID: 25537
+College: Central Connecticut State
+FantasyPosition: LB
+Weight: 232
+Height: 6'2"
+Name: Luquay Washington
+Age: 23
+----------------------------------------
+PlayerID: 25538
+College: North Carolina State
+FantasyPosition: DB
+Weight: 188
+Height: 5'10"
+Name: Robert Kennedy
+Age: 25
+----------------------------------------
+PlayerID: 25539
+College: Mississippi
+FantasyPosition: DB
+Weight: 185
+Height: 6'3"
+Name: Zamari Walton
+Age: 26
+----------------------------------------
+PlayerID: 25540
+College: Clemson
+FantasyPosition: DB
+Weight: 205
+Height: 6'1"
+Name: Jalyn Phillips
+Age: 23
+----------------------------------------
+PlayerID: 25541
+College: Appalachian State
+FantasyPosition: LB
+Weight: 226
+Height: 5'11"
+Name: Andrew Parker Jr.
+Age: 24
+----------------------------------------
+PlayerID: 25542
+College: LSU
+FantasyPosition: LB
+Weight: 228
+Height: 6'1"
+Name: Omar Speights
+Age: 23
+----------------------------------------
+PlayerID: 25543
+College: Georgia Tech
+FantasyPosition: TE
+Weight: 240
+Height: 6'5"
+Name: Dylan Leonard
+Age: 23
+----------------------------------------
+PlayerID: 25544
+College: North Texas
+FantasyPosition: RB
+Weight: 210
+Height: 5'10"
+Name: Isaiah Johnson
+Age: None
+----------------------------------------
+PlayerID: 25545
+College: Texas-San Antonio
+FantasyPosition: DL
+Weight: 295
+Height: 6'2"
+Name: Brandon Matterson
+Age: 24
+----------------------------------------
+PlayerID: 25546
+College: Marshall
+FantasyPosition: OL
+Weight: 307
+Height: 6'6"
+Name: Dalton Tucker
+Age: 24
+----------------------------------------
+PlayerID: 25547
+College: Fresno State
+FantasyPosition: LB
+Weight: 225
+Height: 6'2"
+Name: Levelle Bailey
+Age: 23
+----------------------------------------
+PlayerID: 25548
+College: North Carolina State
+FantasyPosition: RB
+Weight: 234
+Height: 6'2"
+Name: Trent Pennix
+Age: 24
+----------------------------------------
+PlayerID: 25549
+College: Washington State
+FantasyPosition: WR
+Weight: 177
+Height: 5'9"
+Name: Lincoln Victor
+Age: 23
+----------------------------------------
+PlayerID: 25550
+College: Wake Forest
+FantasyPosition: DB
+Weight: 206
+Height: 5'11"
+Name: Chelen Garnes
+Age: 24
+----------------------------------------
+PlayerID: 25551
+College: Oklahoma
+FantasyPosition: DL
+Weight: 311
+Height: 6'2"
+Name: Isaiah Coe
+Age: None
+----------------------------------------
+PlayerID: 25552
+College: Northern Illinois
+FantasyPosition: LB
+Weight: 218
+Height: 6'1"
+Name: DaRon Gilbert
+Age: 23
+----------------------------------------
+PlayerID: 25553
+College: Kansas
+FantasyPosition: LB
+Weight: 226
+Height: 6'3"
+Name: Craig Young
+Age: 23
+----------------------------------------
+PlayerID: 25554
+College: Idaho
+FantasyPosition: LS
+Weight: 239
+Height: 6'2"
+Name: Hogan Hatten
+Age: 24
+----------------------------------------
+PlayerID: 25555
+College: William & Mary
+FantasyPosition: DL
+Weight: 256
+Height: 6'3"
+Name: Nate Lynn
+Age: 22
+----------------------------------------
+PlayerID: 25556
+College: Fresno State
+FantasyPosition: DB
+Weight: 192
+Height: 5'11"
+Name: Morice Norris
+Age: 24
+----------------------------------------
+PlayerID: 25557
+College: Mount Union
+FantasyPosition: WR
+Weight: 190
+Height: 6'1"
+Name: Wayne Ruby
+Age: 24
+----------------------------------------
+PlayerID: 25558
+College: USC
+FantasyPosition: OL
+Weight: 300
+Height: 6'2"
+Name: Justin Dedich
+Age: 24
+----------------------------------------
+PlayerID: 25559
+College: Northern Illinois
+FantasyPosition: DL
+Weight: 289
+Height: 6'3"
+Name: James Ester
+Age: 23
+----------------------------------------
+PlayerID: 25560
+College: Tennessee
+FantasyPosition: DB
+Weight: 202
+Height: 6'0"
+Name: Jaylen McCollough
+Age: 24
+----------------------------------------
+PlayerID: 25561
+College: Ohio
+FantasyPosition: DL
+Weight: 311
+Height: 6'1"
+Name: Rodney Mathews
+Age: 24
+----------------------------------------
+PlayerID: 25562
+College: Central Missouri
+FantasyPosition: DL
+Weight: 315
+Height: 6'3"
+Name: David Olajiga
+Age: 27
+----------------------------------------
+PlayerID: 25563
+College: Louisiana-Lafayette
+FantasyPosition: TE
+Weight: 250
+Height: 6'4"
+Name: Neal Johnson
+Age: 23
+----------------------------------------
+PlayerID: 25564
+College: Kansas
+FantasyPosition: DB
+Weight: 210
+Height: 6'0"
+Name: Kenny Logan Jr.
+Age: 24
+----------------------------------------
+PlayerID: 25565
+College: Wisconsin
+FantasyPosition: LS
+Weight: 239
+Height: 6'2"
+Name: Peter Bowden
+Age: 23
+----------------------------------------
+PlayerID: 25566
+College: Augustana (SD)
+FantasyPosition: OL
+Weight: 306
+Height: 6'7"
+Name: Blake Larson
+Age: 24
+----------------------------------------
+PlayerID: 25567
+College: Arizona State
+FantasyPosition: TE
+Weight: 259
+Height: 6'7"
+Name: Messiah Swinson
+Age: 24
+----------------------------------------
+PlayerID: 25568
+College: Washington
+FantasyPosition: LB
+Weight: 227
+Height: 6'1"
+Name: Ralen Goforth
+Age: 24
+----------------------------------------
+PlayerID: 25569
+College: Illinois
+FantasyPosition: LB
+Weight: 230
+Height: 6'1"
+Name: Tarique Barnes
+Age: 23
+----------------------------------------
+PlayerID: 25570
+College: SUNY-Cortland
+FantasyPosition: WR
+Weight: 177
+Height: 6'1"
+Name: JJ Laap
+Age: 23
+----------------------------------------
+PlayerID: 25571
+College: San Jose State
+FantasyPosition: DB
+Weight: 216
+Height: 5'11"
+Name: Tre Jenkins
+Age: None
+----------------------------------------
+PlayerID: 25572
+College: UCLA
+FantasyPosition: LB
+Weight: 260
+Height: 6'2"
+Name: Grayson Murphy
+Age: 24
+----------------------------------------
+PlayerID: 25573
+College: Texas-El Paso
+FantasyPosition: OL
+Weight: 295
+Height: 6'3"
+Name: Andrew Meyer
+Age: 24
+----------------------------------------
+PlayerID: 25575
+College: Oregon
+FantasyPosition: DL
+Weight: 305
+Height: 6'5"
+Name: Casey Rogers
+Age: 25
+----------------------------------------
+PlayerID: 25576
+College: LSU
+FantasyPosition: LB
+Weight: 250
+Height: 6'4"
+Name: Ovie Oghoufo
+Age: 24
+----------------------------------------
+PlayerID: 25577
+College: North Dakota State
+FantasyPosition: OL
+Weight: 308
+Height: 6'4"
+Name: Jake Kubas
+Age: 24
+----------------------------------------
+PlayerID: 25578
+College: Wyoming
+FantasyPosition: WR
+Weight: 178
+Height: 6'0"
+Name: Ayir Asante
+Age: 23
+----------------------------------------
+PlayerID: 25579
+College: UCLA
+FantasyPosition: DB
+Weight: 185
+Height: 6'0"
+Name: Alex Johnson
+Age: 24
+----------------------------------------
+PlayerID: 25580
+College: Miami (FL)
+FantasyPosition: WR
+Weight: 200
+Height: 6'0"
+Name: Tyler Harrell
+Age: 24
+----------------------------------------
+PlayerID: 25581
+College: Texas-El Paso
+FantasyPosition: OL
+Weight: 310
+Height: 6'6"
+Name: Zuri Henry
+Age: 24
+----------------------------------------
+PlayerID: 25582
+College: Troy
+FantasyPosition: DB
+Weight: 200
+Height: 5'11"
+Name: Dell Pettus
+Age: 23
+----------------------------------------
+PlayerID: 25583
+College: North Carolina State
+FantasyPosition: DB
+Weight: 195
+Height: 6'2"
+Name: Shyheim Battle
+Age: None
+----------------------------------------
+PlayerID: 25584
+College: Tulane
+FantasyPosition: DB
+Weight: 205
+Height: 6'2"
+Name: Jarius Monroe
+Age: 24
+----------------------------------------
+PlayerID: 25585
+College: Alabama State
+FantasyPosition: DB
+Weight: 205
+Height: 6'2"
+Name: Mikey Victor
+Age: 24
+----------------------------------------
+PlayerID: 25586
+College: Texas State
+FantasyPosition: DB
+Weight: 178
+Height: 5'11"
+Name: Kaleb Ford-Dement
+Age: 25
+----------------------------------------
+PlayerID: 25587
+College: South Carolina
+FantasyPosition: WR
+Weight: 170
+Height: 5'8"
+Name: Ahmarean Brown
+Age: 23
+----------------------------------------
+PlayerID: 25588
+College: Richmond
+FantasyPosition: OL
+Weight: 324
+Height: 6'5"
+Name: Ryan Coll
+Age: 23
+----------------------------------------
+PlayerID: 25589
+College: North Dakota State
+FantasyPosition: DB
+Weight: 184
+Height: 6'0"
+Name: Jayden Price
+Age: 24
+----------------------------------------
+PlayerID: 25590
+College: Illinois
+FantasyPosition: QB
+Weight: 190
+Height: 6'0"
+Name: John Paddock
+Age: 24
+----------------------------------------
+PlayerID: 25591
+College: Virginia Tech
+FantasyPosition: RB
+Weight: 192
+Height: 6'1"
+Name: Cole Beck
+Age: 25
+----------------------------------------
+PlayerID: 25593
+College: Rutgers
+FantasyPosition: WR
+Weight: 214
+Height: 6'2"
+Name: Isaiah Washington
+Age: 23
+----------------------------------------
+PlayerID: 25594
+College: Maryland
+FantasyPosition: DL
+Weight: 333
+Height: 6'3"
+Name: Tre Colbert
+Age: None
+----------------------------------------
+PlayerID: 25595
+College: Oregon State
+FantasyPosition: LB
+Weight: 258
+Height: 6'5"
+Name: John McCartan
+Age: None
+----------------------------------------
+PlayerID: 25596
+College: Temple
+FantasyPosition: LB
+Weight: 235
+Height: 6'1"
+Name: Yvandy Rigby
+Age: 24
+----------------------------------------
+PlayerID: 25597
+College: Rutgers
+FantasyPosition: LB
+Weight: 230
+Height: 6'0"
+Name: Deion Jennings
+Age: 24
+----------------------------------------
+PlayerID: 25598
+College: Findlay
+FantasyPosition: TE
+Weight: 244
+Height: 6'2"
+Name: Mike Rigerman
+Age: 23
+----------------------------------------
+PlayerID: 25599
+College: Tulsa
+FantasyPosition: OL
+Weight: 350
+Height: 6'6"
+Name: Darrell Simpson
+Age: 25
+----------------------------------------
+PlayerID: 25600
+College: Kansas State
+FantasyPosition: LS
+Weight: 250
+Height: 6'2"
+Name: Randen Plattner
+Age: 24
+----------------------------------------
+PlayerID: 25601
+College: Oregon State
+FantasyPosition: TE
+Weight: 246
+Height: 6'5"
+Name: Riley Sharp
+Age: 27
+----------------------------------------
+PlayerID: 25602
+College: Morgan State
+FantasyPosition: DB
+Weight: 207
+Height: 6'1"
+Name: Jordan Toles
+Age: 23
+----------------------------------------
+PlayerID: 25603
+College: Troy
+FantasyPosition: QB
+Weight: 210
+Height: 6'3"
+Name: Gunnar Watson
+Age: None
+----------------------------------------
+PlayerID: 25604
+College: Clemson
+FantasyPosition: DB
+Weight: 190
+Height: 6'0"
+Name: Sheridan Jones
+Age: 24
+----------------------------------------
+PlayerID: 25605
+College: Arkansas
+FantasyPosition: DB
+Weight: 210
+Height: 6'2"
+Name: Alfahiym Walcott
+Age: None
+----------------------------------------
+PlayerID: 25606
+College: Campbell
+FantasyPosition: OL
+Weight: 363
+Height: 6'5"
+Name: Mike Edwards
+Age: 26
+----------------------------------------
+PlayerID: 25607
+College: Connecticut
+FantasyPosition: LB
+Weight: 235
+Height: 6'2"
+Name: Jackson Mitchell
+Age: 23
+----------------------------------------
+PlayerID: 25608
+College: New Haven
+FantasyPosition: TE
+Weight: 250
+Height: 6'4"
+Name: Kevin Foelsch
+Age: 23
+----------------------------------------
+PlayerID: 25609
+College: Oklahoma
+FantasyPosition: TE
+Weight: 258
+Height: 6'6"
+Name: Austin Stogner
+Age: 24
+----------------------------------------
+PlayerID: 25610
+College: Army
+FantasyPosition: LB
+Weight: 225
+Height: 6'0"
+Name: Leo Lowin
+Age: None
+----------------------------------------
+PlayerID: 25611
+College: Bryant
+FantasyPosition: DL
+Weight: 235
+Height: 6'3"
+Name: Kenny Dyson
+Age: 23
+----------------------------------------
+PlayerID: 25613
+College: Kansas State
+FantasyPosition: OL
+Weight: 300
+Height: 6'5"
+Name: Christian Duffie
+Age: 24
+----------------------------------------
+PlayerID: 25614
+College: Villanova
+FantasyPosition: RB
+Weight: 210
+Height: 5'11"
+Name: TD Ayo-Durojaiye
+Age: None
+----------------------------------------
+PlayerID: 25615
+College: Stonehill
+FantasyPosition: OL
+Weight: 290
+Height: 6'4"
+Name: David Satkowski
+Age: None
+----------------------------------------
+PlayerID: 25616
+College: Weber State
+FantasyPosition: OL
+Weight: 335
+Height: 6'6"
+Name: Noah Atagi
+Age: None
+----------------------------------------
+PlayerID: 25617
+College: Kansas State
+FantasyPosition: OL
+Weight: 300
+Height: 6'3"
+Name: Hayden Gillum
+Age: 25
+----------------------------------------
+PlayerID: 25618
+College: Arkansas State
+FantasyPosition: DB
+Weight: 195
+Height: 6'1"
+Name: Leon Jones
+Age: 24
+----------------------------------------
+PlayerID: 25619
+College: Wisconsin
+FantasyPosition: DB
+Weight: 208
+Height: 5'11"
+Name: Travian Blaylock
+Age: None
+----------------------------------------
+PlayerID: 25620
+College: Wisconsin-Platteville
+FantasyPosition: DL
+Weight: 252
+Height: 6'3"
+Name: Justin Blazek
+Age: 23
+----------------------------------------
+PlayerID: 25621
+College: Wyoming
+FantasyPosition: TE
+Weight: 240
+Height: 6'4"
+Name: Treyton Welch
+Age: 23
+----------------------------------------
+PlayerID: 25622
+College: Nevada
+FantasyPosition: DB
+Weight: 218
+Height: 6'2"
+Name: Emany Johnson
+Age: 23
+----------------------------------------
+PlayerID: 25623
+College: Missouri
+FantasyPosition: RB
+Weight: 197
+Height: 5'8"
+Name: Nathaniel Peat
+Age: 24
+----------------------------------------
+PlayerID: 25624
+College: Nebraska
+FantasyPosition: DB
+Weight: 185
+Height: 6'1"
+Name: Quinton Newsome
+Age: 23
+----------------------------------------
+PlayerID: 25625
+College: Sacramento State
+FantasyPosition: DB
+Weight: 192
+Height: 6'1"
+Name: Caleb Nelson
+Age: None
+----------------------------------------
+PlayerID: 25626
+College: Oregon
+FantasyPosition: K
+Weight: 205
+Height: 6'0"
+Name: Camden Lewis
+Age: None
+----------------------------------------
+PlayerID: 25627
+College: Fresno State
+FantasyPosition: LS
+Weight: 225
+Height: 6'0"
+Name: Nick D'Ambra
+Age: None
+----------------------------------------
+PlayerID: 25628
+College: Ball State
+FantasyPosition: DB
+Weight: 202
+Height: 5'10"
+Name: Loren Strickland
+Age: 24
+----------------------------------------
+PlayerID: 25629
+College: Michigan
+FantasyPosition: K
+Weight: 190
+Height: 6'0"
+Name: James Turner
+Age: 23
+----------------------------------------
+PlayerID: 25630
+College: Kansas State
+FantasyPosition: WR
+Weight: 175
+Height: 5'7"
+Name: Phillip Brooks
+Age: 25
+----------------------------------------
+PlayerID: 25631
+College: Utah
+FantasyPosition: DB
+Weight: 196
+Height: 6'3"
+Name: Miles Battle
+Age: 24
+----------------------------------------
+PlayerID: 25632
+College: Oklahoma
+FantasyPosition: OL
+Weight: 307
+Height: 6'3"
+Name: McKade Mettauer
+Age: 24
+----------------------------------------
+PlayerID: 25633
+College: Austin Peay
+FantasyPosition: QB
+Weight: 215
+Height: 6'1"
+Name: Mike DiLiello
+Age: None
+----------------------------------------
+PlayerID: 25634
+College: Minnesota State-Mankato
+FantasyPosition: DB
+Weight: 170
+Height: 6'0"
+Name: Trey Vaval
+Age: 24
+----------------------------------------
+PlayerID: 25635
+College: Washington State
+FantasyPosition: DB
+Weight: 176
+Height: 5'11"
+Name: Cam Lampkin
+Age: 23
+----------------------------------------
+PlayerID: 25636
+College: Washington
+FantasyPosition: DL
+Weight: 287
+Height: 6'1"
+Name: Tuli Letuligasenoa
+Age: 24
+----------------------------------------
+PlayerID: 25637
+College: Memphis
+FantasyPosition: LB
+Weight: 240
+Height: 6'3"
+Name: Geoffrey Cantin-Arku
+Age: None
+----------------------------------------
+PlayerID: 25638
+College: Virginia Tech
+FantasyPosition: DL
+Weight: 294
+Height: 6'0"
+Name: Mario Kendricks
+Age: 24
+----------------------------------------
+PlayerID: 25639
+College: Texas
+FantasyPosition: LB
+Weight: 242
+Height: 6'2"
+Name: Jett Bush
+Age: 24
+----------------------------------------
+PlayerID: 25640
+College: Louisville
+FantasyPosition: OL
+Weight: 320
+Height: 6'6"
+Name: Willie Tyler III
+Age: 25
+----------------------------------------
+PlayerID: 25641
+College: Louisville Tech
+FantasyPosition: DL
+Weight: 272
+Height: 6'5"
+Name: Rason Williams II
+Age: 23
+----------------------------------------
+PlayerID: 25642
+College: Barton
+FantasyPosition: WR
+Weight: 195
+Height: 5'10"
+Name: Kameron Johnson
+Age: 22
+----------------------------------------
+PlayerID: 25643
+College: Southern Mississippi
+FantasyPosition: WR
+Weight: 195
+Height: 6'1"
+Name: Latreal Jones
+Age: 25
+----------------------------------------
+PlayerID: 25644
+College: Central Florida
+FantasyPosition: LB
+Weight: 240
+Height: 6'3"
+Name: Shaun Peterson Jr
+Age: 25
+----------------------------------------
+PlayerID: 25645
+College: Texas Tech
+FantasyPosition: OL
+Weight: 307
+Height: 6'3"
+Name: Cole Spencer
+Age: 25
+----------------------------------------
+PlayerID: 25646
+College: Eastern Michigan
+FantasyPosition: OL
+Weight: 318
+Height: 6'5"
+Name: Brian Dooley
+Age: 24
+----------------------------------------
+PlayerID: 25647
+College: Temple
+FantasyPosition: TE
+Weight: 247
+Height: 6'3"
+Name: David Martin-Robinson
+Age: 24
+----------------------------------------
+PlayerID: 25648
+College: Toledo
+FantasyPosition: OL
+Weight: 301
+Height: 6'5"
+Name: David Nwaogwugwu
+Age: 24
+----------------------------------------
+PlayerID: 25649
+College: Purdue
+FantasyPosition: DB
+Weight: 195
+Height: 6'1"
+Name: Cam Allen
+Age: 24
+----------------------------------------
+PlayerID: 25650
+College: Alabama State
+FantasyPosition: WR
+Weight: 142
+Height: 5'8"
+Name: BJ West
+Age: None
+----------------------------------------
+PlayerID: 25651
+College: Texas A&M
+FantasyPosition: P
+Weight: 225
+Height: 6'3"
+Name: Nik Constantinou
+Age: 24
+----------------------------------------
+PlayerID: 25652
+College: Albany
+FantasyPosition: WR
+Weight: 201
+Height: 6'2"
+Name: Julian Hicks
+Age: 25
+----------------------------------------
+PlayerID: 25653
+College: Wisconsin-La Crosse
+FantasyPosition: OL
+Weight: 305
+Height: 6'3"
+Name: Michael Bertoia
+Age: None
+----------------------------------------
+PlayerID: 25654
+College: Troy
+FantasyPosition: DB
+Weight: 174
+Height: 5'10"
+Name: Don Callis
+Age: 23
+----------------------------------------
+PlayerID: 25655
+College: Buffalo
+FantasyPosition: K
+Weight: 230
+Height: 6'1"
+Name: Alex McNulty
+Age: None
+----------------------------------------
+PlayerID: 25656
+College: Duke
+FantasyPosition: P
+Weight: 231
+Height: 6'5"
+Name: Porter Wilson
+Age: 24
+----------------------------------------
+PlayerID: 25657
+College: Virginia Tech
+FantasyPosition: DL
+Weight: 275
+Height: 6'3"
+Name: Pheldarius Payne
+Age: 24
+----------------------------------------
+PlayerID: 25658
+College: Brigham Young
+FantasyPosition: LB
+Weight: 225
+Height: 6'2"
+Name: Max Tooley
+Age: 26
+----------------------------------------
+PlayerID: 25659
+College: Southern Illinois
+FantasyPosition: RB
+Weight: 205
+Height: 6'0"
+Name: Justin Strong
+Age: None
+----------------------------------------
+PlayerID: 25660
+College: Pittsburgh
+FantasyPosition: TE
+Weight: 255
+Height: 6'6"
+Name: Malcolm Epps
+Age: 24
+----------------------------------------
+PlayerID: 25661
+College: Memphis
+FantasyPosition: WR
+Weight: 205
+Height: 6'2"
+Name: Joseph Scates
+Age: 24
+----------------------------------------
+PlayerID: 25662
+College: Rutgers
+FantasyPosition: TE
+Weight: 249
+Height: 6'4"
+Name: Shawn Bowman
+Age: 24
+----------------------------------------
+PlayerID: 25663
+College: Penn State
+FantasyPosition: RB
+Weight: 215
+Height: 5'9"
+Name: Trey Potts
+Age: None
+----------------------------------------
+PlayerID: 25665
+College: North Dakota State
+FantasyPosition: WR
+Weight: 203
+Height: 6'7"
+Name: Zach McCarron-Mathis
+Age: None
+----------------------------------------
+PlayerID: 25666
+College: Villanova
+FantasyPosition: WR
+Weight: 199
+Height: 6'0"
+Name: Jaaron Hayek
+Age: 23
+----------------------------------------
+PlayerID: 25667
+College: Chattanooga
+FantasyPosition: OL
+Weight: 301
+Height: 6'4"
+Name: Griffin McDowell
+Age: 24
+----------------------------------------
+PlayerID: 25668
+College: Arkansas State
+FantasyPosition: OL
+Weight: 350
+Height: 6'5"
+Name: Jalen Cunningham
+Age: None
+----------------------------------------
+PlayerID: 25669
+College: Old Dominion
+FantasyPosition: DL
+Weight: 254
+Height: 6'4"
+Name: Jaylon White-McClain
+Age: None
+----------------------------------------
+PlayerID: 25670
+College: Ohio
+FantasyPosition: LB
+Weight: 246
+Height: 6'0"
+Name: Bryce Houston
+Age: 25
+----------------------------------------
+PlayerID: 25671
+College: Northwestern
+FantasyPosition: LB
+Weight: 235
+Height: 6'2"
+Name: Bryce Gallagher
+Age: None
+----------------------------------------
+PlayerID: 25672
+College: Washington State
+FantasyPosition: DB
+Weight: 207
+Height: 6'1"
+Name: Sam Lockett III
+Age: None
+----------------------------------------
+PlayerID: 25673
+College: Southern Methodist
+FantasyPosition: DB
+Weight: 185
+Height: 5'11"
+Name: Charles Woods
+Age: 24
+----------------------------------------
+PlayerID: 25674
+College: UCLA
+FantasyPosition: TE
+Weight: 225
+Height: 6'4"
+Name: Colson Yankoff
+Age: 24
+----------------------------------------
+PlayerID: 25675
+College: Connecticut
+FantasyPosition: WR
+Weight: 195
+Height: 6'1"
+Name: Geordon Porter
+Age: None
+----------------------------------------
+PlayerID: 25676
+College: Georgia Southern
+FantasyPosition: TE
+Weight: 240
+Height: 6'3"
+Name: Jjay Mcafee
+Age: None
+----------------------------------------
+PlayerID: 25677
+College: North Carolina
+FantasyPosition: OL
+Weight: 320
+Height: 6'4"
+Name: William Barnes
+Age: None
+----------------------------------------
+PlayerID: 25678
+College: Rutgers
+FantasyPosition: K
+Weight: 205
+Height: 6'2"
+Name: Jude McAtamney
+Age: 24
+----------------------------------------
+PlayerID: 25679
+College: South Carolina
+FantasyPosition: DL
+Weight: 270
+Height: 6'3"
+Name: Tyreek Johnson
+Age: 25
+----------------------------------------
+PlayerID: 25680
+College: California
+FantasyPosition: LB
+Weight: 240
+Height: 6'2"
+Name: Jackson Sirmon
+Age: 24
+----------------------------------------
+PlayerID: 25681
+College: Mississippi State
+FantasyPosition: LB
+Weight: 230
+Height: 6'2"
+Name: Jett Johnson
+Age: 25
+----------------------------------------
+PlayerID: 25682
+College: Wake Forest
+FantasyPosition: LB
+Weight: 233
+Height: 6'1"
+Name: Jake Roberts
+Age: None
+----------------------------------------
+PlayerID: 25683
+College: Florida Atlantic
+FantasyPosition: RB
+Weight: 208
+Height: 5'9"
+Name: Kobe Lewis
+Age: 24
+----------------------------------------
+PlayerID: 25685
+College: North Carolina
+FantasyPosition: DB
+Weight: 200
+Height: 6'1"
+Name: Don Chapman
+Age: None
+----------------------------------------
+PlayerID: 25686
+College: Northern Iowa
+FantasyPosition: WR
+Weight: 191
+Height: 5'10"
+Name: Sam Schnee
+Age: 24
+----------------------------------------
+PlayerID: 25687
+College: Youngstown State
+FantasyPosition: WR
+Weight: 214
+Height: 6'1"
+Name: Bryce Oliver
+Age: 24
+----------------------------------------
+PlayerID: 25688
+College: South Alabama
+FantasyPosition: LB
+Weight: 224
+Height: 6'0"
+Name: Trey Kiser
+Age: 23
+----------------------------------------
+PlayerID: 25689
+College: MidAmerica Nazarene
+FantasyPosition: DB
+Weight: 200
+Height: 6'1"
+Name: Anthony Sao
+Age: 23
+----------------------------------------
+PlayerID: 25691
+College: Florida Atlantic
+FantasyPosition: WR
+Weight: 177
+Height: 5'9"
+Name: Je'Quan Burton
+Age: 24
+----------------------------------------
+PlayerID: 25692
+College: South Alabama
+FantasyPosition: TE
+Weight: 238
+Height: 6'3"
+Name: Lincoln Sefcik
+Age: 25
+----------------------------------------
+PlayerID: 25693
+College: Duke
+FantasyPosition: DB
+Weight: 195
+Height: 6'1"
+Name: Al Blades Jr.
+Age: 25
+----------------------------------------
+PlayerID: 25694
+College: Marshall
+FantasyPosition: LB
+Weight: 227
+Height: 6'0"
+Name: Elias Neal
+Age: 23
+----------------------------------------
+PlayerID: 25695
+College: Georgia Southern
+FantasyPosition: DB
+Weight: 200
+Height: 6'1"
+Name: Shemar Bartholomew
+Age: 24
+----------------------------------------
+PlayerID: 25696
+College: West Florida
+FantasyPosition: QB
+Weight: 240
+Height: 6'4"
+Name: Peewee Jarrett
+Age: None
+----------------------------------------
+PlayerID: 25697
+College: Duke
+FantasyPosition: DB
+Weight: 194
+Height: 6'4"
+Name: Myles Jones
+Age: 26
+----------------------------------------
+PlayerID: 25698
+College: Florida A&M
+FantasyPosition: WR
+Weight: 175
+Height: 5'11"
+Name: Marcus Riley
+Age: 25
+----------------------------------------
+PlayerID: 25699
+College: Limestone
+FantasyPosition: WR
+Weight: 195
+Height: 6'2"
+Name: Jelani Baker
+Age: 23
+----------------------------------------
+PlayerID: 25701
+College: Point Cook (Australia)
+FantasyPosition: OL
+Weight: 320
+Height: 6'5"
+Name: Laekin Vakalahi
+Age: 21
+----------------------------------------
+PlayerID: 25702
+College: Southern Mississippi
+FantasyPosition: LB
+Weight: 224
+Height: 6'1"
+Name: Swayze Bozeman
+Age: 26
+----------------------------------------
+PlayerID: 25703
+College: Kent State
+FantasyPosition: DB
+Weight: 185
+Height: 5'10"
+Name: D.J. Miller
+Age: 24
+----------------------------------------
+PlayerID: 25704
+College: Troy
+FantasyPosition: DL
+Weight: 307
+Height: 6'1"
+Name: Buddha Jones
+Age: 23
+----------------------------------------
+PlayerID: 25705
+College: Iowa State
+FantasyPosition: WR
+Weight: 200
+Height: 6'0"
+Name: Dimitri Stanley
+Age: 24
+----------------------------------------
+PlayerID: 25706
+College: Wyoming
+FantasyPosition: QB
+Weight: 218
+Height: 6'2"
+Name: Andrew Peasley
+Age: 24
+----------------------------------------
+PlayerID: 25707
+College: Houston Christian
+FantasyPosition: QB
+Weight: 240
+Height: 6'4"
+Name: Colby Suits
+Age: 24
+----------------------------------------
+PlayerID: 25708
+College: North Carolina Central
+FantasyPosition: DB
+Weight: 185
+Height: 5'9"
+Name: Brandon Codrington
+Age: 23
+----------------------------------------
+PlayerID: 25709
+College: Missouri Western State
+FantasyPosition: DL
+Weight: 292
+Height: 6'5"
+Name: C.J. Ravenell
+Age: 24
+----------------------------------------
+PlayerID: 25710
+College: North Alabama
+FantasyPosition: DL
+Weight: 258
+Height: 6'0"
+Name: Philip Ossai
+Age: None
+----------------------------------------
+PlayerID: 25711
+College: Samford
+FantasyPosition: TE
+Weight: 215
+Height: 6'6"
+Name: Qadir Ismail
+Age: 24
+----------------------------------------
+PlayerID: 25712
+College: Kansas
+FantasyPosition: TE
+Weight: 260
+Height: 6'4"
+Name: Mason Fairchild
+Age: 23
+----------------------------------------
+PlayerID: 25713
+College: Maryland
+FantasyPosition: P
+Weight: 192
+Height: 6'0"
+Name: Colton Spangler
+Age: None
+----------------------------------------
+PlayerID: 25714
+College: Southern Methodist
+FantasyPosition: DL
+Weight: 237
+Height: 6'2"
+Name: Nelson Paul
+Age: None
+----------------------------------------
+PlayerID: 25715
+College: Kansas
+FantasyPosition: DL
+Weight: 2024
+Height: 6'2"
+Name: Devin Phillips
+Age: None
+----------------------------------------
+PlayerID: 25716
+College: Winston-Salem State
+FantasyPosition: WR
+Weight: 210
+Height: 6'3"
+Name: RJ Mobley
+Age: None
+----------------------------------------
+PlayerID: 25717
+College: Northern Colorado
+FantasyPosition: QB
+Weight: 230
+Height: 6'4"
+Name: Jacob Sirmon
+Age: 25
+----------------------------------------
+PlayerID: 25718
+College: Colorado School of Mines
+FantasyPosition: QB
+Weight: 180
+Height: 5'11"
+Name: John Matocha
+Age: None
+----------------------------------------
+PlayerID: 25734
+College: Chattanooga
+FantasyPosition: LB
+Weight: 237
+Height: 6'2"
+Name: Jay Person
+Age: 24
+----------------------------------------
+PlayerID: 25738
+College: Southern Methodist
+FantasyPosition: DL
+Weight: 278
+Height: 6'0"
+Name: Elijah Chatman
+Age: 23
+----------------------------------------
+PlayerID: 25739
+College: Western Kentucky
+FantasyPosition: RB
+Weight: 225
+Height: 6'1"
+Name: Markese Stepp
+Age: 24
+----------------------------------------
+PlayerID: 25748
+College: Morgan State
+FantasyPosition: WR
+Weight: 195
+Height: 6'2"
+Name: Treveyon Pratt
+Age: 24
+----------------------------------------
+PlayerID: 25750
+College: USC
+FantasyPosition: DL
+Weight: 290
+Height: 6'2"
+Name: Kyon Barrs
+Age: 23
+----------------------------------------
+PlayerID: 25757
+College: None
+FantasyPosition: K
+Weight: 210
+Height: 6'1"
+Name: Vincent Blanchard
+Age: None
+----------------------------------------
+PlayerID: 25758
+College: Wilfrid Laurier (Canada)
+FantasyPosition: DL
+Weight: 255
+Height: 6'6"
+Name: Luke Brubacher
+Age: None
+----------------------------------------
+PlayerID: 25759
+College: Ohio State
+FantasyPosition: WR
+Weight: 197
+Height: 6'2"
+Name: Praise Olatoke
+Age: 24
+----------------------------------------
+PlayerID: 25761
+College: Louisiana
+FantasyPosition: WR
+Weight: 189
+Height: 6'2"
+Name: Peter Leblanc
+Age: 23
+----------------------------------------
+PlayerID: 25762
+College: Miami (FL)
+FantasyPosition: DB
+Weight: 175
+Height: 5'10"
+Name: Te'Cory Couch
+Age: 25
+----------------------------------------
+PlayerID: 25763
+College: Oklahoma
+FantasyPosition: DL
+Weight: 273
+Height: 6'3"
+Name: Rondell Bothroyd
+Age: 24
+----------------------------------------
+PlayerID: 25764
+College: Michigan State
+FantasyPosition: WR
+Weight: 196
+Height: 6'1"
+Name: Tre Mosley
+Age: 23
+----------------------------------------
+PlayerID: 25765
+College: Shorter
+FantasyPosition: TE
+Weight: 250
+Height: 6'6"
+Name: John Dietl
+Age: None
+----------------------------------------
+PlayerID: 25766
+College: Eastern Michigan
+FantasyPosition: WR
+Weight: 178
+Height: 5'11"
+Name: Tanner Knue
+Age: 24
+----------------------------------------
+PlayerID: 25767
+College: Tulane
+FantasyPosition: DL
+Weight: 280
+Height: 6'2"
+Name: Darius Hodges
+Age: None
+----------------------------------------
+PlayerID: 25768
+College: USC
+FantasyPosition: LB
+Weight: 240
+Height: 6'0"
+Name: Shane Lee
+Age: 23
+----------------------------------------
+PlayerID: 25769
+College: Washington
+FantasyPosition: DL
+Weight: 327
+Height: 6'6"
+Name: Ulumoo Ale
+Age: 25
+----------------------------------------
+PlayerID: 25771
+College: Buffalo
+FantasyPosition: LB
+Weight: 232
+Height: 6'1"
+Name: Joe Andreessen
+Age: 24
+----------------------------------------
+PlayerID: 25772
+College: Central Arkansas
+FantasyPosition: DB
+Weight: 195
+Height: 6'0"
+Name: Andrew Hayes
+Age: 23
+----------------------------------------
+PlayerID: 25773
+College: Nevada
+FantasyPosition: WR
+Weight: 215
+Height: 6'1"
+Name: John Jackson
+Age: 25
+----------------------------------------
+PlayerID: 25774
+College: Arizona State
+FantasyPosition: DL
+Weight: 275
+Height: 6'1"
+Name: Dashaun Mallory
+Age: 25
+----------------------------------------
+PlayerID: 25775
+College: Georgia Tech
+FantasyPosition: LB
+Weight: 229
+Height: 6'0"
+Name: Paul Moala
+Age: 24
+----------------------------------------
+PlayerID: 25776
+College: Samford
+FantasyPosition: QB
+Weight: 215
+Height: 6'1"
+Name: Michael Hiers
+Age: None
+----------------------------------------
+PlayerID: 25777
+College: Incarnate Word
+FantasyPosition: WR
+Weight: 220
+Height: 6'5"
+Name: Caleb Chapman
+Age: None
+----------------------------------------
+PlayerID: 25778
+College: Tulane
+FantasyPosition: K
+Weight: 175
+Height: 5'9"
+Name: Valentino Ambrosio
+Age: 24
+----------------------------------------
+PlayerID: 25779
+College: Mississippi State
+FantasyPosition: DL
+Weight: 314
+Height: 6'4"
+Name: Nathan Pickering
+Age: 23
+----------------------------------------
+PlayerID: 25780
+College: Long Island
+FantasyPosition: DL
+Weight: 300
+Height: 6'4"
+Name: Mike Thompson
+Age: 24
+----------------------------------------
+PlayerID: 25781
+College: Washington State
+FantasyPosition: K
+Weight: 199
+Height: 6'3"
+Name: Colton Theaker
+Age: None
+----------------------------------------
+PlayerID: 25782
+College: Washington State
+FantasyPosition: LB
+Weight: 229
+Height: 6'2"
+Name: Devin Richardson
+Age: 24
+----------------------------------------
+PlayerID: 25783
+College: Ferris State
+FantasyPosition: DB
+Weight: 180
+Height: 5'9"
+Name: Shon Stephens
+Age: 25
+----------------------------------------
+PlayerID: 25784
+College: Youngstown State
+FantasyPosition: OL
+Weight: 306
+Height: 6'2"
+Name: Ryan Johnson
+Age: 24
+----------------------------------------
+PlayerID: 25785
+College: None
+FantasyPosition: DL
+Weight: 239
+Height: 6'4"
+Name: Jotham Russell
+Age: 21
+----------------------------------------
+PlayerID: 25786
+College: Eastern Michigan
+FantasyPosition: WR
+Weight: 162
+Height: 5'8"
+Name: Hamze El-Zayat
+Age: 25
+----------------------------------------
+PlayerID: 25787
+College: Wisconsin
+FantasyPosition: DB
+Weight: 188
+Height: 5'10"
+Name: Jason Maitre
+Age: 24
+----------------------------------------
+PlayerID: 25788
+College: Minnesota
+FantasyPosition: LB
+Weight: 255
+Height: 6'5"
+Name: Chris Collins
+Age: 24
+----------------------------------------
+PlayerID: 25789
+College: Rutgers
+FantasyPosition: OL
+Weight: 300
+Height: 6'3"
+Name: Ireland Brown
+Age: 23
+----------------------------------------
+PlayerID: 25790
+College: Auburn
+FantasyPosition: OL
+Weight: 343
+Height: 6'5"
+Name: Kam Stutts
+Age: None
+----------------------------------------
+PlayerID: 25791
+College: Jacksonville State
+FantasyPosition: DB
+Weight: 220
+Height: 6'3"
+Name: Kolbi Fuqua
+Age: None
+----------------------------------------
+PlayerID: 25792
+College: Furman
+FantasyPosition: DB
+Weight: 185
+Height: 5'11"
+Name: Travis Blackshear
+Age: None
+----------------------------------------
+PlayerID: 25793
+College: Wisconsin
+FantasyPosition: OL
+Weight: None
+Height: 6'5"
+Name: Michael Furtney
+Age: None
+----------------------------------------
+PlayerID: 25794
+College: North Dakota
+FantasyPosition: OL
+Weight: 300
+Height: 6'4"
+Name: Donny Ventrelli
+Age: None
+----------------------------------------
+PlayerID: 25795
+College: Colorado State
+FantasyPosition: OL
+Weight: 305
+Height: 6'5"
+Name: Oliver Jervis
+Age: 24
+----------------------------------------
+PlayerID: 25796
+College: Brigham Young
+FantasyPosition: DB
+Weight: 190
+Height: 5'10"
+Name: Eddie Heckard
+Age: None
+----------------------------------------
+PlayerID: 25797
+College: James Madison
+FantasyPosition: DB
+Weight: 193
+Height: 5'11"
+Name: Chris Chukwuneke
+Age: None
+----------------------------------------
+PlayerID: 25798
+College: Incarnate Word
+FantasyPosition: OL
+Weight: 300
+Height: 6'6"
+Name: Joe Bryson
+Age: None
+----------------------------------------
+PlayerID: 25799
+College: Kansas
+FantasyPosition: DB
+Weight: 195
+Height: 5'11"
+Name: Kalon Gervin
+Age: None
+----------------------------------------
+PlayerID: 25800
+College: Duke
+FantasyPosition: OL
+Weight: 300
+Height: 6'5"
+Name: Jake Hornibrook
+Age: None
+----------------------------------------
+PlayerID: 25801
+College: Liberty
+FantasyPosition: DB
+Weight: 200
+Height: 6'0"
+Name: Brandon Bishop
+Age: None
+----------------------------------------
+PlayerID: 25802
+College: Texas Southern
+FantasyPosition: OL
+Weight: 290
+Height: 6'5"
+Name: Aidan Hemphill
+Age: None
+----------------------------------------
+PlayerID: 25803
+College: Purdue
+FantasyPosition: OL
+Weight: 320
+Height: 6'6"
+Name: Daniel Johnson
+Age: None
+----------------------------------------
+PlayerID: 25804
+College: New Mexico State
+FantasyPosition: DB
+Weight: 205
+Height: 6'1"
+Name: Devlin Kirklin
+Age: None
+----------------------------------------
+PlayerID: 25805
+College: Purdue
+FantasyPosition: OL
+Weight: 310
+Height: 6'4"
+Name: Ben Farrell
+Age: None
+----------------------------------------
+PlayerID: 25806
+College: Pittsburgh
+FantasyPosition: OL
+Weight: 305
+Height: 6'3"
+Name: Jake Kradel
+Age: None
+----------------------------------------
+PlayerID: 25807
+College: Texas State
+FantasyPosition: OL
+Weight: 350
+Height: 6'7"
+Name: Brey Walker
+Age: None
+----------------------------------------
+PlayerID: 25808
+College: Purdue
+FantasyPosition: DB
+Weight: 185
+Height: 5'11"
+Name: Marquis Wilson
+Age: None
+----------------------------------------
+PlayerID: 25809
+College: Arizona State
+FantasyPosition: OL
+Weight: 310
+Height: 6'5"
+Name: Aaron Frost
+Age: None
+----------------------------------------
+PlayerID: 25810
+College: Morgan State
+FantasyPosition: LB
+Weight: 275
+Height: 6'5"
+Name: Noah Washington
+Age: None
+----------------------------------------
+PlayerID: 25811
+College: North Carolina A&T
+FantasyPosition: OL
+Weight: 300
+Height: 6'6"
+Name: Tairiq Stewart
+Age: None
+----------------------------------------
+PlayerID: 25812
+College: Boston College
+FantasyPosition: DB
+Weight: 200
+Height: 6'1"
+Name: John Pupel
+Age: None
+----------------------------------------
+PlayerID: 25813
+College: Florida A&M
+FantasyPosition: LB
+Weight: 230
+Height: 6'1"
+Name: Isaiah Major
+Age: None
+----------------------------------------
+PlayerID: 25814
+College: Mississippi State
+FantasyPosition: DB
+Weight: 205
+Height: 6'0"
+Name: Shawn Preston
+Age: None
+----------------------------------------
+PlayerID: 25815
+College: Boise State
+FantasyPosition: OL
+Weight: 310
+Height: 6'6"
+Name: Cade Beresford
+Age: None
+----------------------------------------
+PlayerID: 25816
+College: Michigan State
+FantasyPosition: LB
+Weight: 240
+Height: 6'2"
+Name: Aaron Brule
+Age: None
+----------------------------------------
+PlayerID: 25817
+College: Oregon
+FantasyPosition: LB
+Weight: 270
+Height: 6'3"
+Name: Mase Funa
+Age: None
+----------------------------------------
+PlayerID: 25818
+College: Michigan State
+FantasyPosition: OL
+Weight: 305
+Height: 6'4"
+Name: J.D. Duplain
+Age: None
+----------------------------------------
+PlayerID: 25819
+College: Tulane
+FantasyPosition: DB
+Weight: 185
+Height: 5'9"
+Name: Kam Pedescleaux
+Age: None
+----------------------------------------
+PlayerID: 25820
+College: Bowling Green
+FantasyPosition: OL
+Weight: 290
+Height: 6'6"
+Name: Kameren Stewart
+Age: None
+----------------------------------------
+PlayerID: 25821
+College: Montana
+FantasyPosition: DB
+Weight: 207
+Height: 6'2"
+Name: Nate Fouch
+Age: None
+----------------------------------------
+PlayerID: 25822
+College: Auburn
+FantasyPosition: DB
+Weight: 226
+Height: 6'0"
+Name: Zion Puckett
+Age: None
+----------------------------------------
+PlayerID: 25823
+College: Richmond
+FantasyPosition: LB
+Weight: 228
+Height: 6'2"
+Name: Tristan Wheeler
+Age: None
+----------------------------------------
+PlayerID: 25824
+College: Kent State
+FantasyPosition: DB
+Weight: 186
+Height: 5'11"
+Name: Bryce Sheppert
+Age: None
+----------------------------------------
+PlayerID: 25825
+College: Troy
+FantasyPosition: DB
+Weight: 190
+Height: 5'9"
+Name: Irshaad Davis
+Age: None
+----------------------------------------
+PlayerID: 25826
+College: Montana
+FantasyPosition: OL
+Weight: 300
+Height: 6'2"
+Name: AJ Forbes
+Age: None
+----------------------------------------
+PlayerID: 25827
+College: Arizona State
+FantasyPosition: LB
+Weight: 245
+Height: 6'2"
+Name: Travion Brown
+Age: None
+----------------------------------------
+PlayerID: 25828
+College: Troy
+FantasyPosition: DB
+Weight: 230
+Height: 6'3"
+Name: Richard Jibunor
+Age: None
+----------------------------------------
+PlayerID: 25829
+College: Rhode Island
+FantasyPosition: OL
+Weight: 330
+Height: 6'5"
+Name: Nick Correia
+Age: None
+----------------------------------------
+PlayerID: 25830
+College: Tulsa
+FantasyPosition: DB
+Weight: 215
+Height: 6'3"
+Name: Kendarin Ray
+Age: None
+----------------------------------------
+PlayerID: 25831
+College: Villanova
+FantasyPosition: LB
+Weight: 225
+Height: 5'9"
+Name: Danny Abraham
+Age: None
+----------------------------------------
+PlayerID: 25832
+College: Coastal Carolina
+FantasyPosition: DB
+Weight: 195
+Height: 5'11"
+Name: Keonte Lusk
+Age: None
+----------------------------------------
+PlayerID: 25833
+College: Lafayette
+FantasyPosition: LB
+Weight: 230
+Height: 6'3"
+Name: Billy Shaeffer
+Age: 25
+----------------------------------------
+PlayerID: 25834
+College: Charlotte
+FantasyPosition: OL
+Weight: 315
+Height: 6'7"
+Name: Jasper Parks
+Age: None
+----------------------------------------
+PlayerID: 25835
+College: Davenport
+FantasyPosition: LB
+Weight: 230
+Height: 6'1"
+Name: Julius Wilkerson
+Age: None
+----------------------------------------
+PlayerID: 25836
+College: Central Florida
+FantasyPosition: OL
+Weight: 305
+Height: 6'4"
+Name: Lokahi Pauole
+Age: None
+----------------------------------------
+PlayerID: 25837
+College: East Carolina
+FantasyPosition: LB
+Weight: 220
+Height: 6'3"
+Name: BJ Davis
+Age: None
+----------------------------------------
+PlayerID: 25838
+College: Houston
+FantasyPosition: OL
+Weight: 300
+Height: 6'3"
+Name: Jack Freeman
+Age: None
+----------------------------------------
+PlayerID: 25839
+College: Bentley
+FantasyPosition: LB
+Weight: 212
+Height: 5'11"
+Name: Salvatore Lupoli
+Age: None
+----------------------------------------
+PlayerID: 25840
+College: Minnesota
+FantasyPosition: DL
+Weight: 265
+Height: 6'1"
+Name: Gable Steveson
+Age: 24
+----------------------------------------
+PlayerID: 25841
+College: Pittsburgh
+FantasyPosition: LB
+Weight: 235
+Height: 6'3"
+Name: Shayne Simon
+Age: 24
+----------------------------------------
+PlayerID: 25842
+College: Chattanooga
+FantasyPosition: DB
+Weight: 188
+Height: 5'10"
+Name: Clay Fields III
+Age: 24
+----------------------------------------
+PlayerID: 25843
+College: Ithaca College
+FantasyPosition: WR
+Weight: 215
+Height: 6'3"
+Name: Derek Slywka
+Age: 23
+----------------------------------------
+PlayerID: 25844
+College: Montana
+FantasyPosition: DL
+Weight: 284
+Height: 6'3"
+Name: Alex Gubner
+Age: 25
+----------------------------------------
+PlayerID: 25845
+College: James Madison
+FantasyPosition: OL
+Weight: 312
+Height: 6'4"
+Name: Liam Fornadel
+Age: 25
+----------------------------------------
+PlayerID: 25846
+College: Indiana (PA)
+FantasyPosition: LB
+Weight: 270
+Height: 6'3"
+Name: Dondrea Tillman
+Age: 26
+----------------------------------------
+PlayerID: 25847
+College: Hawaii
+FantasyPosition: OL
+Weight: 324
+Height: 6'5"
+Name: Kohl Levao
+Age: 26
+----------------------------------------
+PlayerID: 25848
+College: Villanova
+FantasyPosition: DL
+Weight: 265
+Height: 6'4"
+Name: Malik Fisher
+Age: 25
+----------------------------------------
+PlayerID: 25849
+College: Samford
+FantasyPosition: WR
+Weight: 214
+Height: 6'0"
+Name: Rory Starkey
+Age: 24
+----------------------------------------
+PlayerID: 25850
+College: Northwestern
+FantasyPosition: QB
+Weight: 220
+Height: 6'3"
+Name: Ben Bryant
+Age: 25
+----------------------------------------
+PlayerID: 25851
+College: San Jose State
+FantasyPosition: RB
+Weight: 195
+Height: 5'7"
+Name: Kairee Robinson
+Age: 24
+----------------------------------------
+PlayerID: 25852
+College: Mississippi State
+FantasyPosition: TE
+Weight: 245
+Height: 6'5"
+Name: Geor'quarius Spivey
+Age: 25
+----------------------------------------
+PlayerID: 25853
+College: South Alabama
+FantasyPosition: LB
+Weight: 265
+Height: 6'2"
+Name: Jamie Sheriff
+Age: 24
+----------------------------------------
+PlayerID: 25854
+College: Mars Hill
+FantasyPosition: LB
+Weight: 231
+Height: 6'2"
+Name: Landon Honeycutt
+Age: 23
+----------------------------------------
+PlayerID: 25855
+College: Oklahoma State
+FantasyPosition: K
+Weight: 203
+Height: 6'1"
+Name: Alex Hale
+Age: 26
+----------------------------------------
+PlayerID: 25856
+College: Louisiana Tech
+FantasyPosition: DB
+Weight: 190
+Height: 5'11"
+Name: Willie Roberts
+Age: 24
+----------------------------------------
+PlayerID: 25857
+College: Texas Tech
+FantasyPosition: DL
+Weight: 305
+Height: 6'0"
+Name: Jaylon Hutchings
+Age: 24
+----------------------------------------
+PlayerID: 25858
+College: San Jose State
+FantasyPosition: DB
+Weight: 195
+Height: 6'1"
+Name: Chase Williams
+Age: 24
+----------------------------------------
+PlayerID: 25859
+College: Texas A&M
+FantasyPosition: LB
+Weight: 235
+Height: 6'1"
+Name: Chris Russell
+Age: 23
+----------------------------------------
+PlayerID: 25860
+College: Pittsburg State
+FantasyPosition: TE
+Weight: 240
+Height: 6'5"
+Name: Devon Garrison
+Age: 25
+----------------------------------------
+PlayerID: 25862
+College: Baylor
+FantasyPosition: LB
+Weight: 231
+Height: 6'1"
+Name: Mike Smith Jr.
+Age: None
+----------------------------------------
+PlayerID: 25863
+College: Grand Valley State
+FantasyPosition: LB
+Weight: 253
+Height: 6'2"
+Name: Christian McCarroll
+Age: None
+----------------------------------------
+PlayerID: 25864
+College: Tulane
+FantasyPosition: LB
+Weight: 230
+Height: 6'2"
+Name: Marvin Moody
+Age: 25
+----------------------------------------
+PlayerID: 25865
+College: Oregon State
+FantasyPosition: DL
+Weight: 284
+Height: 6'2"
+Name: Keonte Schad
+Age: 26
+----------------------------------------
+PlayerID: 25867
+College: Minnesota
+FantasyPosition: OL
+Weight: 310
+Height: 6'11"
+Name: Jack Wilson
+Age: 25
+----------------------------------------
