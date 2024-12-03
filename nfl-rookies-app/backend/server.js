@@ -18,7 +18,41 @@ const pool = new Pool({
 // Define a route to get rookies
 app.get('/api/rookies', async (req, res) => {
   try {
-    const result = await pool.query('SELECT * FROM player WHERE p_rookieStatus = 1');
+    const result = await pool.query('SELECT * FROM drafted');
+    res.json(result.rows);
+  } catch (err) {
+    console.error('Error executing query', err.stack);
+    res.status(500).send(err);
+  }
+});
+
+// Define a route to get colleges
+app.get('/api/colleges', async (req, res) => {
+  try {
+    const result = await pool.query('SELECT * FROM college');
+    res.json(result.rows);
+  } catch (err) {
+    console.error('Error executing query', err.stack);
+    res.status(500).send(err);
+  }
+});
+
+// Define a route to get players by position
+app.get('/api/players/position/:position', async (req, res) => {
+  const { position } = req.params;
+  try {
+    const result = await pool.query('SELECT * FROM player WHERE p_postion = $1', [position]);
+    res.json(result.rows);
+  } catch (err) {
+    console.error('Error executing query', err.stack);
+    res.status(500).send(err);
+  }
+});
+
+// Define a route to get teams
+app.get('/api/teams', async (req, res) => {
+  try {
+    const result = await pool.query('SELECT * FROM team');
     res.json(result.rows);
   } catch (err) {
     console.error('Error executing query', err.stack);

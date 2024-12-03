@@ -6,6 +6,8 @@ import BottomNavigationAction from '@mui/material/BottomNavigationAction';
 import PeopleIcon from '@mui/icons-material/People';
 import SportsIcon from '@mui/icons-material/Sports';
 import CategoryIcon from '@mui/icons-material/Category';
+import SchoolIcon from '@mui/icons-material/School';
+import { Link } from 'react-router-dom';
 
 const BottomNav = () => {
   const [value, setValue] = React.useState(0);
@@ -19,9 +21,10 @@ const BottomNav = () => {
           setValue(newValue);
         }}
       >
-        <BottomNavigationAction label="Players" icon={<PeopleIcon />} />
-        <BottomNavigationAction label="Teams" icon={<SportsIcon />} />
-        <BottomNavigationAction label="Position" icon={<CategoryIcon />} />
+        <BottomNavigationAction label="Players" icon={<PeopleIcon />} component={Link} to="/rookies" />
+        <BottomNavigationAction label="Teams" icon={<SportsIcon />} component={Link} to="/teams" />
+        <BottomNavigationAction label="Position" icon={<CategoryIcon />} component={Link} to="/positions" />
+        <BottomNavigationAction label="College" icon={<SchoolIcon />} component={Link} to="/colleges" />
       </BottomNavigation>
     </Box>
   );

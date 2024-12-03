@@ -22,27 +22,36 @@ const RookiesList = () => {
     setExpandedPlayer(expandedPlayer === playerID ? null : playerID);
   };
 
+  const displayValue = (value) => {
+    return value ? value : 'N/A';
+  };
+
   return (
     <div className="rookies-list">
       <h1>NFL Rookies</h1>
-      <ul>
-        {rookies.map(rookie => (
-          <li key={rookie.p_playerid} className="rookie-item">
-            <h2 onClick={() => toggleDetails(rookie.p_playerid)}>{rookie.p_name}</h2>
-            {expandedPlayer === rookie.p_playerid && (
-              <div className="rookie-details">
-                <p><strong>Position:</strong> {rookie.p_positionid}</p>
-                <p><strong>College:</strong> {rookie.p_collegeid}</p>
-                <p><strong>Height:</strong> {rookie.p_height} inches</p>
-                <p><strong>Weight:</strong> {rookie.p_weight} lbs</p>
-                <p><strong>Age:</strong> {rookie.p_age}</p>
-                <p><strong>Projected Stats:</strong> {rookie.p_projectedstats}</p>
-                <p><strong>Actual Stats:</strong> {rookie.p_actualstats}</p>
-              </div>
-            )}
-          </li>
-        ))}
-      </ul>
+      
+      <section id="section-players">
+        <ul>
+          {rookies.map(rookie => (
+            <li key={rookie.d_playerid} className="rookie-item">
+              <h3 onClick={() => toggleDetails(rookie.d_playerid)}>{displayValue(rookie.d_firstname)} {displayValue(rookie.d_lastname)}</h3>
+              {expandedPlayer === rookie.d_playerid && (
+                <div className="rookie-details">
+                  <p><strong>Position:</strong> {displayValue(rookie.d_position)}</p>
+                  <p><strong>College:</strong> {displayValue(rookie.d_collegekey)}</p>
+                  <p><strong>Height:</strong> {displayValue(rookie.d_height)} inches</p>
+                  <p><strong>Weight:</strong> {displayValue(rookie.d_weight)} lbs</p>
+                  <p><strong>Age:</strong> {displayValue(rookie.d_age)}</p>
+                  <p><strong>Draft Year:</strong> {displayValue(rookie.d_draftyear)}</p>
+                  <p><strong>Draft Round:</strong> {displayValue(rookie.d_draftround)}</p>
+                  <p><strong>Draft Pick:</strong> {displayValue(rookie.d_draftpick)}</p>
+                </div>
+              )}
+            </li>
+          ))}
+        </ul>
+      </section>
+
       <BottomNav /> {/* Include the BottomNav component */}
     </div>
   );
