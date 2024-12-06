@@ -1,11 +1,10 @@
-// src/components/PositionsList.js
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import './PositionsList.css'; // Import the CSS file for styling
+import './PositionsList.css';
 
 const PositionsList = () => {
   const [positions, setPositions] = useState([]);
-  const [selectedPosition, setSelectedPosition] = useState('QB'); // Default position
+  const [selectedPosition, setSelectedPosition] = useState('QB');
 
   useEffect(() => {
     axios.get(`http://localhost:3001/api/players/position/${selectedPosition}`)

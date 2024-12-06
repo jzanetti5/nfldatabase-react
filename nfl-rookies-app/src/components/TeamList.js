@@ -1,4 +1,3 @@
-// src/components/TeamList.js
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import './TeamList.css'; // Import the CSS file for styling

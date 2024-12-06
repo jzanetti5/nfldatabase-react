@@ -1,7 +1,6 @@
-// src/components/CollegeList.js
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import './CollegeList.css'; // Import the CSS file for styling
+import './CollegeList.css';
 
 const CollegeList = () => {
   const [colleges, setColleges] = useState([]);
